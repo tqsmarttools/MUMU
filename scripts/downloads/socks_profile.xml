@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="Defaultserver">118.70.190.208</string>
+    <string name="Defaultpassword">uwpiMP</string>
+    <int name="Defaultport" value="55067" />
+    <boolean name="Defaultuserpw" value="true" />
+    <string name="Defaultusername">mQGUvb</string>
+</map>

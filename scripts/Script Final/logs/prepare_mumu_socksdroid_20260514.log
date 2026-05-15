@@ -1,0 +1,36 @@
+﻿[2026-05-14 18:43:44] ======== MuMu SocksDroid preparation started ========
+[2026-05-14 18:43:44] target vmindex=2
+[2026-05-14 18:43:44] host public IP=171.250.163.206
+[2026-05-14 18:43:45] launching stopped MuMu devices: 2
+[2026-05-14 18:43:45] waiting for Android start: 2:
+[2026-05-14 18:43:53] waiting for Android start: 2:starting_rom
+[2026-05-14 18:44:01] waiting for Android start: 2:starting_rom
+[2026-05-14 18:44:10] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-14 18:44:17] 127.0.0.1:16448 launching SocksDroid
+[2026-05-14 18:44:22] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-14 18:44:27] 127.0.0.1:16448 VPN active=True
+[2026-05-14 18:44:27] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-14 18:44:45] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-14 18:44:52] 127.0.0.1:16448 browser IP detected on attempt 2: 58.187.159.99
+[2026-05-14 18:44:52] 127.0.0.1:16448 returning to Home screen
+[2026-05-14 18:44:57] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\Script Final\screenshots\ipcheck_vm2_127.0.0.1_16448_20260514_184452.png
+[2026-05-14 18:44:57] ready state written: D:\MUMU\scripts\Script Final\state\mumu_device_ready.json
+[2026-05-14 18:44:57] ======== MuMu SocksDroid preparation finished ========
+[2026-05-14 22:26:34] ======== MuMu SocksDroid preparation started ========
+[2026-05-14 22:26:34] target vmindex=2
+[2026-05-14 22:26:35] host public IP=171.250.163.206
+[2026-05-14 22:26:36] launching stopped MuMu devices: 2
+[2026-05-14 22:26:36] waiting for Android start: 2:
+[2026-05-14 22:26:45] waiting for Android start: 2:starting_rom
+[2026-05-14 22:26:53] waiting for Android start: 2:starting_rom
+[2026-05-14 22:27:01] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-14 22:27:10] 127.0.0.1:16448 launching SocksDroid
+[2026-05-14 22:27:16] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-14 22:27:22] 127.0.0.1:16448 VPN active=True
+[2026-05-14 22:27:22] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-14 22:27:39] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-14 22:27:46] 127.0.0.1:16448 browser IP detected on attempt 2: 58.187.159.99
+[2026-05-14 22:27:47] 127.0.0.1:16448 returning to Home screen
+[2026-05-14 22:27:52] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\Script Final\screenshots\ipcheck_vm2_127.0.0.1_16448_20260514_222746.png
+[2026-05-14 22:27:52] ready state written: D:\MUMU\scripts\Script Final\state\mumu_device_ready.json
+[2026-05-14 22:27:52] ======== MuMu SocksDroid preparation finished ========

@@ -1,0 +1,156 @@
+﻿[2026-05-06 10:40:01] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 10:40:01] target vmindex=2
+[2026-05-06 10:40:02] host public IP=117.5.142.178
+[2026-05-06 10:40:02] launching selected MuMu devices
+[2026-05-06 10:40:02] waiting for Android start: 2:
+[2026-05-06 10:40:11] waiting for Android start: 2:starting_rom
+[2026-05-06 10:40:19] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 10:40:22] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 10:40:28] 127.0.0.1:16448 SocksDroid main switch: 441,79
+[2026-05-06 10:40:38] 127.0.0.1:16448 VPN active=False
+[2026-05-06 10:40:38] vm=2 ready=False vpn=False whoerIp= screenshot=
+[2026-05-06 10:40:38] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 10:40:38] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 10:43:43] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 10:43:43] target vmindex=2
+[2026-05-06 10:43:43] host public IP=117.5.142.178
+[2026-05-06 10:43:43] launching selected MuMu devices
+[2026-05-06 10:43:44] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 10:43:45] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 10:43:52] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-06 10:44:14] 127.0.0.1:16448 VPN active=True
+[2026-05-06 10:44:14] 127.0.0.1:16448 opening Whoer in Chrome
+[2026-05-06 10:44:14] ERROR: A positional parameter cannot be found that accepts argument 'shell'.
+[2026-05-06 10:45:04] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 10:45:04] target vmindex=2
+[2026-05-06 10:45:04] host public IP=117.5.142.178
+[2026-05-06 10:45:04] launching selected MuMu devices
+[2026-05-06 10:45:05] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 10:45:05] 127.0.0.1:16448 SocksDroid VPN already active
+[2026-05-06 10:45:05] 127.0.0.1:16448 opening Whoer in Chrome
+[2026-05-06 10:45:23] 127.0.0.1:16448 Chrome DevTools IP check failed: Unable to connect to the remote server
+[2026-05-06 10:45:24] vm=2 ready=False vpn=True whoerIp= screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_104523.png
+[2026-05-06 10:45:24] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 10:45:24] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 10:48:14] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 10:48:14] target vmindex=2
+[2026-05-06 10:48:14] host public IP=117.5.142.178
+[2026-05-06 10:48:14] launching selected MuMu devices
+[2026-05-06 10:48:15] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 10:48:15] 127.0.0.1:16448 SocksDroid VPN already active
+[2026-05-06 10:48:15] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-06 10:48:30] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-06 10:48:45] 127.0.0.1:16448 browser IP text not found in UI dump
+[2026-05-06 10:48:45] vm=2 ready=False vpn=True whoerIp= screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_104830.png
+[2026-05-06 10:48:45] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 10:48:45] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 10:52:28] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 10:52:28] target vmindex=2
+[2026-05-06 10:52:30] host public IP=117.5.142.178
+[2026-05-06 10:52:31] launching selected MuMu devices
+[2026-05-06 10:52:34] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 10:52:37] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 10:52:42] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-06 10:53:02] 127.0.0.1:16448 VPN active=True
+[2026-05-06 10:53:02] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-06 10:53:19] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-06 10:54:02] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_105317.png
+[2026-05-06 10:54:02] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 10:54:03] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 20:10:01] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 20:10:01] target vmindex=2
+[2026-05-06 20:10:02] host public IP=117.5.142.99
+[2026-05-06 20:10:02] launching selected MuMu devices
+[2026-05-06 20:10:07] waiting for Android start: 2:
+[2026-05-06 20:10:16] waiting for Android start: 2:starting_vm
+[2026-05-06 20:10:25] waiting for Android start: 2:starting_rom
+[2026-05-06 20:10:34] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 20:10:36] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 20:10:57] 127.0.0.1:16448 SocksDroid did not reach foreground; retrying launcher intent
+[2026-05-06 20:11:03] 127.0.0.1:16448 SocksDroid switch not found in UI; using fallback tap
+[2026-05-06 20:11:03] 127.0.0.1:16448 SocksDroid main switch: 444,76
+[2026-05-06 20:11:21] 127.0.0.1:16448 VPN active=False
+[2026-05-06 20:11:21] vm=2 ready=False vpn=False whoerIp= screenshot=
+[2026-05-06 20:11:21] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 20:11:21] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 20:14:18] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 20:14:18] target vmindex=2
+[2026-05-06 20:14:19] host public IP=117.5.142.99
+[2026-05-06 20:14:19] launching selected MuMu devices
+[2026-05-06 20:14:19] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 20:14:19] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 20:14:24] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-06 20:14:44] 127.0.0.1:16448 VPN active=True
+[2026-05-06 20:14:44] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-06 20:15:01] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-06 20:15:22] 127.0.0.1:16448 browser IP text not found in UI dump
+[2026-05-06 20:15:22] vm=2 ready=False vpn=True whoerIp= screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_201459.png
+[2026-05-06 20:15:22] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 20:15:22] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 20:16:40] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 20:16:40] target vmindex=2
+[2026-05-06 20:16:41] host public IP=117.5.142.99
+[2026-05-06 20:16:41] launching selected MuMu devices
+[2026-05-06 20:16:41] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 20:16:41] 127.0.0.1:16448 SocksDroid VPN already active
+[2026-05-06 20:16:41] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-06 20:16:59] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-06 20:17:22] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-06 20:17:27] 127.0.0.1:16448 browser IP not visible yet; attempt 2/8
+[2026-05-06 20:17:32] 127.0.0.1:16448 browser IP not visible yet; attempt 3/8
+[2026-05-06 20:17:37] 127.0.0.1:16448 browser IP not visible yet; attempt 4/8
+[2026-05-06 20:17:42] 127.0.0.1:16448 browser IP not visible yet; attempt 5/8
+[2026-05-06 20:17:47] 127.0.0.1:16448 browser IP not visible yet; attempt 6/8
+[2026-05-06 20:17:52] 127.0.0.1:16448 browser IP not visible yet; attempt 7/8
+[2026-05-06 20:17:57] 127.0.0.1:16448 browser IP not visible yet; attempt 8/8
+[2026-05-06 20:18:02] 127.0.0.1:16448 browser IP text not found in UI dump
+[2026-05-06 20:18:02] vm=2 ready=False vpn=True whoerIp= screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_201656.png
+[2026-05-06 20:18:02] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 20:18:02] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 20:19:20] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 20:19:20] target vmindex=2
+[2026-05-06 20:19:20] host public IP=117.5.142.99
+[2026-05-06 20:19:20] launching selected MuMu devices
+[2026-05-06 20:19:21] waiting for Android start: 2:
+[2026-05-06 20:19:29] waiting for Android start: 2:starting_rom
+[2026-05-06 20:19:37] waiting for Android start: 2:starting_rom
+[2026-05-06 20:19:45] waiting for Android start: 2:starting_rom
+[2026-05-06 20:19:54] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 20:19:54] ERROR: ADB command failed: Android Debug Bridge version 1.0.41 Version 36.0.0-13206524 Installed as D:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe Running on Windows 10.0.26200  global options:  -a                       listen on all network interfaces, not just localhost  -d                       use USB device (error if multiple devices connected)  -e                       use TCP/IP device (error if multiple TCP/IP devices available)  -s SERIAL                use device with given serial (overrides $ANDROID_SERIAL)  -t ID                    use device with given transport id  -H                       name of adb server host [default=localhost]  -P                       port of adb server [default=5037]  -L SOCKET                listen on given socket for adb server [default=tcp:localhost:5037]  --one-device SERIAL|USB  only allowed with 'start-server' or 'server nodaemon', server will only connect to one USB device, specified by a serial number or USB device address.  --exit-on-write-error    exit if stdout is closed  general commands:  devices [-l]             list connected devices (-l for long output)  help                     show this help message  version                  show version num  networking:  connect HOST[:PORT]      connect to a device via TCP/IP [default port=5555]  disconnect [HOST[:PORT]]      disconnect from given TCP/IP device [default port=5555], or all  pair HOST[:PORT] [PAIRING CODE]      pair with a device for secure TCP/IP communication  forward --list           list all forward socket connections  forward [--no-rebind] LOCAL REMOTE      forward socket connection using:        tcp:<port> (<local> may be "tcp:0" to pick any open port)        localabstract:<unix domain socket name>        localreserved:<unix domain socket name>        localfilesystem:<unix domain socket name>        dev:<character device name>        dev-raw:<character device name> (open device in raw mode)        jdwp:<process pid> (remote only)        vsock:<CID>:<port> (remote only)        acceptfd:<fd> (listen only)  forward --remove LOCAL   remove specific forward socket connection  forward --remove-all     remove all forward socket connections  reverse --list           list all reverse socket connections from device  reverse [--no-rebind] REMOTE LOCAL      reverse socket connection using:        tcp:<port> (<remote> may be "tcp:0" to pick any open port)        localabstract:<unix domain socket name>        localreserved:<unix domain socket name>        localfilesystem:<unix domain socket name>  reverse --remove REMOTE  remove specific reverse socket connection  reverse --remove-all     remove all reverse socket connections from device  mdns check               check if mdns discovery is available  mdns services            list all discovered services  file transfer:  push [--sync] [-z ALGORITHM] [-Z] LOCAL... REMOTE      copy local files/directories to device      -n: dry run: push files to device without storing to the filesystem      -q: suppress progress messages      -Z: disable compression      -z: enable compression with a specified algorithm (any/none/brotli/lz4/zstd)      --sync: only push files that have different timestamps on the host than the device  pull [-a] [-z ALGORITHM] [-Z] REMOTE... LOCAL      copy files/dirs from device      -a: preserve file timestamp and mode      -q: suppress progress messages      -Z: disable compression      -z: enable compression with a specified algorithm (any/none/brotli/lz4/zstd)  sync [-l] [-z ALGORITHM] [-Z] [all|data|odm|oem|product|system|system_ext|vendor]      sync a local build from $ANDROID_PRODUCT_OUT to the device (default all)      -l: list files that would be copied, but don't copy them      -n: dry run: push files to device without storing to the filesystem      -q: suppress progress messages      -Z: disable compression      -z: enable compression with a specified algorithm (any/none/brotli/lz4/zstd)  shell:  shell [-e ESCAPE] [-n] [-Tt] [-x] [COMMAND...]      run remote shell command (interactive shell if no command given)      -e: choose escape character, or "none"; default '~'      -n: don't read from stdin      -T: disable pty allocation      -t: allocate a pty if on a tty (-tt: force pty allocation)      -x: disable remote exit codes and stdout/stderr separation  emu COMMAND              run emulator console command  app installation (see also `adb shell cmd package help`):  install [-lrtsdg] [--instant] PACKAGE      push a single package to the device and install it  install-multiple [-lrtsdpg] [--instant] PACKAGE...      push multiple APKs to the device for a single package and install them  install-multi-package [-lrtsdpg] [--instant] PACKAGE...      push one or more packages to the device and install them atomically      -r: replace existing application      -t: allow test packages      -d: allow version code downgrade (debuggable packages only)      -p: partial application install (install-multiple only)      -g: grant all runtime permissions      --abi ABI: override platform's default ABI      --instant: cause the app to be installed as an ephemeral install app      --no-streaming: always push APK to device and invoke Package Manager as separate steps      --streaming: force streaming APK directly into Package Manager      --fastdeploy: use fast deploy      --no-fastdeploy: prevent use of fast deploy      --force-agent: force update of deployment agent when using fast deploy      --date-check-agent: update deployment agent when local version is newer and using fast deploy      --version-check-agent: update deployment agent when local version has different version code and using fast deploy      (See also `adb shell pm help` for more options.)  uninstall [-k] PACKAGE      remove this app package from the device      '-k': keep the data and cache directories  debugging:  bugreport [PATH]      write bugreport to given PATH [default=bugreport.zip];      if PATH is a directory, the bug report is saved in that directory.      devices that don't support zipped bug reports output to stdout.  jdwp                     list pids of processes hosting a JDWP transport  logcat                   show device log (logcat --help for more)  security:  disable-verity           disable dm-verity checking on userdebug builds  enable-verity            re-enable dm-verity checking on userdebug builds  keygen FILE      generate adb public/private key; private key stored in FILE,  scripting:  wait-for[-TRANSPORT]-STATE...      wait for device to be in a given state      STATE: device, recovery, rescue, sideload, bootloader, or disconnect      TRANSPORT: usb, local, or any [default=any]  get-state                print offline | bootloader | device  get-serialno             print <serial-number>  get-devpath              print <device-path>  remount [-R]       remount partitions read-write. if a reboot is required, -R will       will automatically reboot the device.  reboot [bootloader|recovery|sideload|sideload-auto-reboot]      reboot the device; defaults to booting system image but      supports bootloader and recovery too. sideload reboots      into recovery and automatically starts sideload mode,      sideload-auto-reboot is the same but reboots after sideloading.  sideload OTAPACKAGE      sideload the given full OTA package  root                     restart adbd with root permissions  unroot                   restart adbd without root permissions  usb                      restart adbd listening on USB  tcpip PORT               restart adbd listening on TCP on PORT  internal debugging:  start-server             ensure that there is a server running  kill-server              kill the server if it is running  reconnect                kick connection from host side to force reconnect  reconnect device         kick connection from device side to force reconnect  reconnect offline        reset offline/unauthorized devices to force reconnect  usb:  attach                   attach a detached USB device  detach                   detach from a USB device to allow use by other processes environment variables:  $ADB_TRACE      comma/space separated list of debug info to log:      all,adb,sockets,packets,rwx,usb,sync,sysdeps,transport,jdwp,services,auth,fdevent,shell,incremental  $ADB_VENDOR_KEYS         colon-separated list of keys (files or directories)  $ANDROID_SERIAL          serial number to connect to (see -s)  $ANDROID_LOG_TAGS        tags to be used by logcat (see logcat --help)  $ADB_LOCAL_TRANSPORT_MAX_PORT max emulator scan port (default 5585, 16 emus)  $ADB_MDNS_AUTO_CONNECT   comma-separated list of mdns services to allow auto-connect (default adb-tls-connect)  Online documentation: https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/main/docs/user/adb.1.md 
+[2026-05-06 22:30:06] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 22:30:06] target vmindex=2
+[2026-05-06 22:30:07] host public IP=117.5.142.99
+[2026-05-06 22:30:07] launching selected MuMu devices
+[2026-05-06 22:30:08] waiting for Android start: 2:
+[2026-05-06 22:30:16] waiting for Android start: 2:starting_rom
+[2026-05-06 22:30:24] waiting for Android start: 2:starting_rom
+[2026-05-06 22:30:32] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 22:30:36] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 22:30:43] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-06 22:31:05] 127.0.0.1:16448 VPN active=True
+[2026-05-06 22:31:05] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-06 22:31:23] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-06 22:31:30] 127.0.0.1:16448 browser IP detected on attempt 2: 58.187.159.99
+[2026-05-06 22:31:31] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-06 22:31:48] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_223146.png
+[2026-05-06 22:31:48] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 22:31:48] ======== MuMu SocksDroid preparation finished ========
+[2026-05-06 22:40:01] ======== MuMu SocksDroid preparation started ========
+[2026-05-06 22:40:01] target vmindex=2
+[2026-05-06 22:40:01] host public IP=117.5.142.99
+[2026-05-06 22:40:01] launching selected MuMu devices
+[2026-05-06 22:40:02] waiting for Android start: 2:
+[2026-05-06 22:40:10] waiting for Android start: 2:starting_rom
+[2026-05-06 22:40:18] waiting for Android start: 2:starting_rom
+[2026-05-06 22:40:27] waiting for Android start: 2:starting_rom
+[2026-05-06 22:40:35] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-06 22:40:37] 127.0.0.1:16448 launching SocksDroid
+[2026-05-06 22:40:42] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-06 22:41:02] 127.0.0.1:16448 VPN active=True
+[2026-05-06 22:41:02] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-06 22:41:20] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-06 22:41:27] 127.0.0.1:16448 browser IP detected on attempt 2: 58.187.159.99
+[2026-05-06 22:41:27] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-06 22:41:53] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260506_224148.png
+[2026-05-06 22:41:53] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-06 22:41:53] ======== MuMu SocksDroid preparation finished ========

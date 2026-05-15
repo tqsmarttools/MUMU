@@ -1,0 +1,64 @@
+﻿[2026-05-07 21:25:28] ======== MuMu SocksDroid preparation started ========
+[2026-05-07 21:25:28] target vmindex=2
+[2026-05-07 21:25:29] host public IP=117.5.142.99
+[2026-05-07 21:25:29] launching selected MuMu devices
+[2026-05-07 21:25:30] waiting for Android start: 2:
+[2026-05-07 21:25:38] waiting for Android start: 2:starting_rom
+[2026-05-07 21:25:46] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-07 21:25:49] ERROR: * daemon not running; starting now at tcp:5037
+[2026-05-07 21:28:44] ======== MuMu SocksDroid preparation started ========
+[2026-05-07 21:28:44] target vmindex=2
+[2026-05-07 21:28:45] host public IP=117.5.142.99
+[2026-05-07 21:28:45] launching selected MuMu devices
+[2026-05-07 21:28:46] waiting for Android start: 2:
+[2026-05-07 21:28:54] waiting for Android start: 2:
+[2026-05-07 21:29:04] waiting for Android start: 2:starting_renderer
+[2026-05-07 21:29:12] waiting for Android start: 2:starting_rom
+[2026-05-07 21:29:20] waiting for Android start: 2:starting_rom
+[2026-05-07 21:29:28] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-07 21:29:30] ERROR: * daemon not running; starting now at tcp:5037
+[2026-05-07 21:34:42] ======== MuMu SocksDroid preparation started ========
+[2026-05-07 21:34:42] target vmindex=2
+[2026-05-07 21:34:42] host public IP=117.5.142.99
+[2026-05-07 21:34:42] launching selected MuMu devices
+[2026-05-07 21:34:43] waiting for Android start: 2:
+[2026-05-07 21:34:51] waiting for Android start: 2:starting_rom
+[2026-05-07 21:34:59] waiting for Android start: 2:starting_rom
+[2026-05-07 21:35:07] waiting for Android start: 2:starting_rom
+[2026-05-07 21:35:15] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-07 21:35:20] 127.0.0.1:16448 launching SocksDroid
+[2026-05-07 21:35:28] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-07 21:35:48] 127.0.0.1:16448 VPN active=True
+[2026-05-07 21:35:48] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-07 21:36:07] 127.0.0.1:16448 browser IP detected on attempt 1: 58.187.159.99
+[2026-05-07 21:36:07] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-07 21:36:25] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260507_213622.png
+[2026-05-07 21:36:25] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-07 21:36:25] ======== MuMu SocksDroid preparation finished ========
+[2026-05-07 21:38:28] ======== MuMu SocksDroid preparation started ========
+[2026-05-07 21:38:28] target vmindex=2
+[2026-05-07 21:38:28] host public IP=117.5.142.99
+[2026-05-07 21:38:28] launching selected MuMu devices
+[2026-05-07 21:39:31] ======== MuMu SocksDroid preparation started ========
+[2026-05-07 21:39:31] target vmindex=2
+[2026-05-07 21:39:32] host public IP=117.5.142.99
+[2026-05-07 21:39:32] launching selected MuMu devices
+[2026-05-07 21:41:32] waiting for Android start: 2:
+[2026-05-07 21:49:55] ======== MuMu SocksDroid preparation started ========
+[2026-05-07 21:49:55] target vmindex=2
+[2026-05-07 21:49:55] host public IP=117.5.142.99
+[2026-05-07 21:49:55] launching selected MuMu devices
+[2026-05-07 21:49:56] waiting for Android start: 2:
+[2026-05-07 21:50:04] waiting for Android start: 2:starting_rom
+[2026-05-07 21:50:12] waiting for Android start: 2:starting_rom
+[2026-05-07 21:50:20] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-07 21:50:25] 127.0.0.1:16448 launching SocksDroid
+[2026-05-07 21:50:29] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-07 21:50:50] 127.0.0.1:16448 VPN active=True
+[2026-05-07 21:50:50] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-07 21:51:07] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-07 21:51:15] 127.0.0.1:16448 browser IP detected on attempt 2: 58.187.159.99
+[2026-05-07 21:51:16] 127.0.0.1:16448 opening Whoer in Chrome: https://whoer.net
+[2026-05-07 21:51:32] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\screenshots\whoer_vm2_127.0.0.1_16448_20260507_215131.png
+[2026-05-07 21:51:32] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-07 21:51:32] ======== MuMu SocksDroid preparation finished ========

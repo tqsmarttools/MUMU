@@ -1,0 +1,2 @@
+# Keep large APK installers local only
+scripts/downloads/*.apk

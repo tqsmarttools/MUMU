@@ -1,0 +1,20 @@
+﻿{
+    "generatedAt":  "2026-05-14T12:55:46",
+    "whoerUrl":  "https://whoer.net",
+    "ipCheckUrl":  "https://api.ipify.org",
+    "devices":  [
+                    {
+                        "index":  "2",
+                        "name":  "PHONE_002",
+                        "serial":  "127.0.0.1:16448",
+                        "adbPort":  16448,
+                        "vpnActive":  true,
+                        "hostIp":  "171.250.163.212",
+                        "whoerIp":  "58.187.159.99",
+                        "ipLooksFake":  true,
+                        "ready":  true,
+                        "screenshot":  "D:\\MUMU\\scripts\\screenshots\\ipcheck_vm2_127.0.0.1_16448_20260514_125541.png",
+                        "checkedAt":  "2026-05-14T12:55:46"
+                    }
+                ]
+}

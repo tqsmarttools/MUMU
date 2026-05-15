@@ -1,0 +1,86 @@
+==== START Thu 05/14/2026 10:55:00.89 ====
+[2026-05-14 10:55:01] python: C:\Users\Admin\AppData\Local\Programs\Python\Python314\python.exe
+[2026-05-14 10:55:01] adb: C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.EXE
+[2026-05-14 10:55:01] serial target: 127.0.0.1:16448
+[2026-05-14 10:55:02] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-14 10:55:02] SocksDroid gate: VPN fake IP already active
+[2026-05-14 10:55:02] serial: 127.0.0.1:16448
+[2026-05-14 10:55:02] keyword: bay xay dung
+[2026-05-14 10:55:02] delay multiplier: 1.35
+[2026-05-14 10:55:02] pre-search warmup swipes: 1
+[2026-05-14 10:55:02] flow attempt 1/3
+[2026-05-14 10:55:02] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-14 10:55:02] SocksDroid gate: VPN fake IP already active
+[2026-05-14 10:55:07] stabilize app startup for 5s
+[2026-05-14 10:55:23] step 1: go home
+[2026-05-14 10:55:31] step 2: open search
+[2026-05-14 10:55:33] open search tab
+[2026-05-14 10:55:34] pre-search warmup swipe x1
+[2026-05-14 10:55:45] search icon not found by selector, fallback tap top-right
+[2026-05-14 10:55:48] open_search top-right fallback: retry tap 2/2
+[2026-05-14 10:55:55] step 3: search keyword
+[2026-05-14 10:55:56] search input ready (attempt 1/5)
+[2026-05-14 10:55:58] typed keyword: bay xay dung
+[2026-05-14 10:56:01] submitted keyword search
+[2026-05-14 10:56:04] search verification: keyword visible on UI
+[2026-05-14 10:56:04] step 4: scroll results
+[2026-05-14 10:56:04] scroll search results 2 lines
+[2026-05-14 10:56:16] step 5: open first video
+[2026-05-14 10:56:20] open first visible video from results
+[2026-05-14 10:56:22] try open video candidate 1 at (118,326)
+[2026-05-14 10:56:26] open_video candidate 1: retry tap 2/2
+[2026-05-14 10:56:34] video opened: activity=com.ss.android.ugc.aweme.detail.ui.DetailActivity
+[2026-05-14 10:56:34] step 6: watch current video to end
+[2026-05-14 10:56:36] wait current video ~15s
+[2026-05-14 10:56:52] step 7: watch next 3 videos
+[2026-05-14 10:56:52] watch video 1 for 7s
+[2026-05-14 10:57:05] watch video 2 for 8s
+[2026-05-14 10:57:19] watch video 3 for 8s
+[2026-05-14 10:57:34] step 8: return to home
+[2026-05-14 10:57:53] flow completed
+[2026-05-14 10:57:53] cleanup: stopping TikTok app
+EXIT_CODE=0
+==== END Thu 05/14/2026 10:57:54.24 ====
+==== START Thu 05/14/2026 11:00:00.47 ====
+[2026-05-14 11:00:00] python: C:\Users\Admin\AppData\Local\Programs\Python\Python314\python.exe
+[2026-05-14 11:00:00] adb: C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.EXE
+[2026-05-14 11:00:00] serial target: 127.0.0.1:16448
+[2026-05-14 11:00:01] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-14 11:00:01] SocksDroid gate: VPN fake IP already active
+[2026-05-14 11:00:01] serial: 127.0.0.1:16448
+[2026-05-14 11:00:01] keyword: bay xay dung
+[2026-05-14 11:00:01] delay multiplier: 1.35
+[2026-05-14 11:00:01] pre-search warmup swipes: 1
+[2026-05-14 11:00:01] flow attempt 1/3
+[2026-05-14 11:00:02] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-14 11:00:02] SocksDroid gate: VPN fake IP already active
+[2026-05-14 11:00:06] stabilize app startup for 5s
+[2026-05-14 11:00:29] step 1: go home
+[2026-05-14 11:00:36] step 2: open search
+[2026-05-14 11:00:38] open search tab
+[2026-05-14 11:00:40] pre-search warmup swipe x1
+[2026-05-14 11:00:51] search icon not found by selector, fallback tap top-right
+[2026-05-14 11:00:54] open_search top-right fallback: retry tap 2/2
+[2026-05-14 11:01:00] step 3: search keyword
+[2026-05-14 11:01:01] search input ready (attempt 1/5)
+[2026-05-14 11:01:03] typed keyword: bay xay dung
+[2026-05-14 11:01:06] submitted keyword search
+[2026-05-14 11:01:09] search verification: keyword visible on UI
+[2026-05-14 11:01:09] step 4: scroll results
+[2026-05-14 11:01:09] scroll search results 2 lines
+[2026-05-14 11:01:22] step 5: open first video
+[2026-05-14 11:01:25] open first visible video from results
+[2026-05-14 11:01:25] try open video candidate 1 at (118,326)
+[2026-05-14 11:01:29] open_video candidate 1: retry tap 2/2
+[2026-05-14 11:01:33] video opened: activity=com.ss.android.ugc.aweme.detail.ui.DetailActivity
+[2026-05-14 11:01:33] step 6: watch current video to end
+[2026-05-14 11:01:33] wait current video ~15s
+[2026-05-14 11:01:49] step 7: watch next 3 videos
+[2026-05-14 11:01:49] watch video 1 for 10s
+[2026-05-14 11:02:04] watch video 2 for 7s
+[2026-05-14 11:02:19] watch video 3 for 9s
+[2026-05-14 11:02:34] step 8: return to home
+[2026-05-14 11:02:55] flow completed
+[2026-05-14 11:02:55] cleanup: stopping TikTok app
+EXIT_CODE=0
+==== END Thu 05/14/2026 11:02:55.40 ====

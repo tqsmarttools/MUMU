@@ -1,0 +1,31 @@
+﻿[2026-05-09 09:29:11] ======== MuMu SocksDroid preparation started ========
+[2026-05-09 09:29:12] target vmindex=all
+[2026-05-09 09:29:12] host public IP=103.199.56.87
+[2026-05-09 09:29:13] launching stopped MuMu devices: 0,2
+[2026-05-09 09:29:14] waiting for Android start: 0:, 2:
+[2026-05-09 09:29:23] waiting for Android start: 0:starting_rom, 2:starting_rom
+[2026-05-09 09:29:31] waiting for Android start: 0:starting_rom, 2:starting_rom
+[2026-05-09 09:29:39] waiting for Android start: 0:starting_rom
+[2026-05-09 09:29:48] waiting for Android start: 0:starting_rom
+[2026-05-09 09:29:56] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:04] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:12] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:20] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:28] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:37] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:45] waiting for Android start: 0:starting_rom
+[2026-05-09 09:30:53] waiting for Android start: 0:starting_rom
+[2026-05-09 09:31:01] waiting for Android start: 0:starting_rom
+[2026-05-09 09:31:09] waiting for Android start: 0:starting_rom
+[2026-05-09 09:31:17] vm=0 name=Android Device is not started; ready=false
+[2026-05-09 09:31:17] preparing vm=2 name=PHONE_002 serial=127.0.0.1:16448
+[2026-05-09 09:31:24] 127.0.0.1:16448 launching SocksDroid
+[2026-05-09 09:31:28] 127.0.0.1:16448 SocksDroid switch checked=False at 445,78
+[2026-05-09 09:31:49] 127.0.0.1:16448 VPN active=True
+[2026-05-09 09:31:49] 127.0.0.1:16448 opening browser IP check in Chrome: https://api.ipify.org
+[2026-05-09 09:32:06] 127.0.0.1:16448 browser IP not visible yet; attempt 1/8
+[2026-05-09 09:32:13] 127.0.0.1:16448 browser IP detected on attempt 2: 58.187.159.99
+[2026-05-09 09:32:13] 127.0.0.1:16448 returning to Home screen
+[2026-05-09 09:32:19] vm=2 ready=True vpn=True whoerIp=58.187.159.99 screenshot=D:\MUMU\scripts\screenshots\ipcheck_vm2_127.0.0.1_16448_20260509_093213.png
+[2026-05-09 09:32:19] ready state written: D:\MUMU\scripts\state\mumu_device_ready.json
+[2026-05-09 09:32:19] ======== MuMu SocksDroid preparation finished ========

@@ -1,0 +1,138 @@
+==== START Wed 05/13/2026 19:26:00.67 ====
+[2026-05-13 19:26:01] python: C:\Users\Admin\AppData\Local\Programs\Python\Python314\python.exe
+[2026-05-13 19:26:01] adb: C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.EXE
+[2026-05-13 19:26:01] serial target: 127.0.0.1:16448
+[2026-05-13 19:26:02] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-13 19:26:03] SocksDroid gate: VPN fake IP already active
+[2026-05-13 19:26:03] serial: 127.0.0.1:16448
+[2026-05-13 19:26:03] keyword: bay cat ron
+[2026-05-13 19:26:03] delay multiplier: 1.25
+[2026-05-13 19:26:03] pre-search warmup swipes: 1
+[2026-05-13 19:26:03] flow attempt 1/3
+[2026-05-13 19:26:03] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-13 19:26:03] SocksDroid gate: VPN fake IP already active
+[2026-05-13 19:26:10] stabilize app startup for 5s
+[2026-05-13 19:26:16] step 1: go home
+[2026-05-13 19:26:22] step 2: open search
+[2026-05-13 19:26:23] open search tab
+[2026-05-13 19:26:24] pre-search warmup swipe x1
+[2026-05-13 19:26:39] open_search search-entry: retry tap 2/2
+[2026-05-13 19:26:41] search icon not found by selector, fallback tap top-right
+[2026-05-13 19:26:44] open_search top-right fallback: retry tap 2/2
+[2026-05-13 19:26:51] open_search top-bar fallback: retry tap 2/2
+[2026-05-13 19:26:54] fallback tap top search bar area
+[2026-05-13 19:26:56] open search tab
+[2026-05-13 19:27:00] open_search search-entry: retry tap 2/2
+[2026-05-13 19:27:04] search icon not found by selector, fallback tap top-right
+[2026-05-13 19:27:06] open_search top-right fallback: retry tap 2/2
+[2026-05-13 19:27:14] open_search top-bar fallback: retry tap 2/2
+[2026-05-13 19:27:19] fallback tap top search bar area
+[2026-05-13 19:27:23] open search tab
+[2026-05-13 19:27:28] open_search search-entry: retry tap 2/2
+[2026-05-13 19:27:32] search icon not found by selector, fallback tap top-right
+[2026-05-13 19:27:35] open_search top-right fallback: retry tap 2/2
+[2026-05-13 19:28:54] open_search top-bar fallback: retry tap 2/2
+[2026-05-13 19:28:58] fallback tap top search bar area
+[2026-05-13 19:29:01] flow attempt 1 failed: open_search failed after 3 retries due unstable app context
+[2026-05-13 19:29:02] recover: reset app state to TikTok home
+[2026-05-13 19:29:04] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-13 19:29:04] SocksDroid gate: VPN fake IP already active
+[2026-05-13 19:30:23] stabilize app startup for 4s
+[2026-05-13 19:31:39] flow attempt 2/3
+[2026-05-13 19:31:43] stabilize app startup for 5s
+[2026-05-13 19:31:48] step 1: go home
+[2026-05-13 19:31:57] step 2: open search
+[2026-05-13 19:31:58] open search tab
+[2026-05-13 19:32:01] pre-search warmup swipe x1
+[2026-05-13 19:32:22] tapped discover tab
+[2026-05-13 19:32:27] open_search search-entry: retry tap 2/2
+[2026-05-13 19:32:30] search icon not found by selector, fallback tap top-right
+[2026-05-13 19:32:32] open_search top-right fallback: retry tap 2/2
+[2026-05-13 19:32:40] open_search top-bar fallback: retry tap 2/2
+[2026-05-13 19:32:43] fallback tap top search bar area
+[2026-05-13 19:33:18] open search tab
+[2026-05-13 19:33:18] search box already visible
+[2026-05-13 19:33:20] step 3: search keyword
+[2026-05-13 19:33:27] search input ready (attempt 1/5)
+[2026-05-13 19:33:43] typed keyword: bay cat ron
+[2026-05-13 19:33:45] submitted keyword search
+[2026-05-13 19:33:51] search verification: keyword visible on UI
+[2026-05-13 19:33:52] step 4: scroll results
+[2026-05-13 19:33:52] scroll search results 2 lines
+[2026-05-13 19:34:11] step 5: open first video
+[2026-05-13 19:34:14] open first visible video from results
+[2026-05-13 19:34:14] try open video candidate 1 at (118,326)
+[2026-05-13 19:34:20] open_video candidate 1: retry tap 2/2
+[2026-05-13 19:35:52] try open video candidate 2 at (270,326)
+[2026-05-13 19:36:01] open_video candidate 2: retry tap 2/2
+[2026-05-13 19:36:14] try open video candidate 3 at (118,460)
+[2026-05-13 19:36:17] open_video candidate 3: retry tap 2/2
+[2026-05-13 19:36:33] try open video candidate 4 at (270,460)
+[2026-05-13 19:36:36] open_video candidate 4: retry tap 2/2
+[2026-05-13 19:36:49] flow attempt 2 failed: Cannot open first visible video. activity=.LawnchairLauncher
+[2026-05-13 19:36:50] recover: reset app state to TikTok home
+[2026-05-13 19:36:57] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-13 19:36:58] SocksDroid gate: VPN fake IP already active
+[2026-05-13 19:38:06] stabilize app startup for 4s
+==== START Wed 05/13/2026 19:44:00.82 ====
+[2026-05-13 19:44:01] python: C:\Users\Admin\AppData\Local\Programs\Python\Python314\python.exe
+[2026-05-13 19:44:01] adb: C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.EXE
+[2026-05-13 19:44:01] serial target: 127.0.0.1:16448
+[2026-05-13 19:44:02] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-13 19:44:02] SocksDroid gate: VPN fake IP already active
+[2026-05-13 19:44:02] serial: 127.0.0.1:16448
+[2026-05-13 19:44:02] keyword: bay cat ron
+[2026-05-13 19:44:02] delay multiplier: 1.25
+[2026-05-13 19:44:02] pre-search warmup swipes: 1
+[2026-05-13 19:44:02] flow attempt 1/3
+[2026-05-13 19:44:02] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-13 19:44:02] SocksDroid gate: VPN fake IP already active
+[2026-05-13 19:44:08] stabilize app startup for 5s
+[2026-05-13 19:44:14] step 1: go home
+[2026-05-13 20:00:13] step 2: open search
+[2026-05-13 20:00:17] open search tab
+[2026-05-13 20:00:19] pre-search warmup swipe x1
+[2026-05-13 20:00:35] search icon not found by selector, fallback tap top-right
+[2026-05-13 20:00:38] open_search top-right fallback: retry tap 2/2
+^C==== START Wed 05/13/2026 20:02:01.15 ====
+[2026-05-13 20:02:01] python: C:\Users\Admin\AppData\Local\Programs\Python\Python314\python.exe
+[2026-05-13 20:02:01] adb: C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.EXE
+[2026-05-13 20:02:01] serial target: 127.0.0.1:16448
+[2026-05-13 20:02:02] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-13 20:02:02] SocksDroid gate: VPN fake IP already active
+[2026-05-13 20:02:02] serial: 127.0.0.1:16448
+[2026-05-13 20:02:02] keyword: may khoan vit
+[2026-05-13 20:02:02] delay multiplier: 1.25
+[2026-05-13 20:02:02] pre-search warmup swipes: 1
+[2026-05-13 20:02:02] flow attempt 1/3
+[2026-05-13 20:02:02] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-13 20:02:02] SocksDroid gate: VPN fake IP already active
+[2026-05-13 20:02:06] stabilize app startup for 5s
+[2026-05-13 20:02:17] step 1: go home
+[2026-05-13 20:02:38] step 2: open search
+[2026-05-13 20:02:39] open search tab
+[2026-05-13 20:02:41] pre-search warmup swipe x1
+[2026-05-13 20:02:51] search icon not found by selector, fallback tap top-right
+[2026-05-13 20:02:54] open_search top-right fallback: retry tap 2/2
+[2026-05-13 20:03:00] step 3: search keyword
+[2026-05-13 20:03:02] search input ready (attempt 1/5)
+[2026-05-13 20:03:03] typed keyword: may khoan vit
+[2026-05-13 20:03:06] submitted keyword search
+[2026-05-13 20:03:10] search verification: keyword visible on UI
+[2026-05-13 20:03:10] step 4: scroll results
+[2026-05-13 20:03:10] scroll search results 2 lines
+[2026-05-13 20:03:22] step 5: open first video
+[2026-05-13 20:03:24] open first visible video from results
+[2026-05-13 20:03:26] try open video candidate 1 at (118,326)
+[2026-05-13 20:03:30] video opened: activity=com.ss.android.ugc.aweme.detail.ui.DetailActivity
+[2026-05-13 20:03:30] step 6: watch current video to end
+[2026-05-13 20:03:30] wait current video ~45s
+[2026-05-13 20:04:17] step 7: watch next 3 videos
+[2026-05-13 20:04:17] watch video 1 for 6s
+[2026-05-13 20:04:30] watch video 2 for 8s
+[2026-05-13 20:04:44] watch video 3 for 8s
+[2026-05-13 20:04:57] step 8: return to home
+[2026-05-13 20:05:24] flow completed
+[2026-05-13 20:05:24] cleanup: stopping TikTok app
+EXIT_CODE=0
+==== END Wed 05/13/2026 20:05:24.42 ====

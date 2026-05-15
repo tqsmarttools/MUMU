@@ -1,0 +1,79 @@
+{
+  "serial": "127.0.0.1:16448",
+  "loops": 10,
+  "passed": 10,
+  "failed": 0,
+  "total_duration_sec": 535.41,
+  "results": [
+    {
+      "iteration": 1,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 75.18,
+      "timestamp": "2026-05-11 22:13:39"
+    },
+    {
+      "iteration": 2,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 91.98,
+      "timestamp": "2026-05-11 22:14:54"
+    },
+    {
+      "iteration": 3,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 43.63,
+      "timestamp": "2026-05-11 22:16:26"
+    },
+    {
+      "iteration": 4,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 39.64,
+      "timestamp": "2026-05-11 22:17:10"
+    },
+    {
+      "iteration": 5,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 60.52,
+      "timestamp": "2026-05-11 22:17:50"
+    },
+    {
+      "iteration": 6,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 45.06,
+      "timestamp": "2026-05-11 22:18:50"
+    },
+    {
+      "iteration": 7,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 41.48,
+      "timestamp": "2026-05-11 22:19:35"
+    },
+    {
+      "iteration": 8,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 44.95,
+      "timestamp": "2026-05-11 22:20:17"
+    },
+    {
+      "iteration": 9,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 45.18,
+      "timestamp": "2026-05-11 22:21:02"
+    },
+    {
+      "iteration": 10,
+      "status": "PASS",
+      "error": "",
+      "duration_sec": 46.43,
+      "timestamp": "2026-05-11 22:21:47"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[2026-05-13 20:20:30] python: C:\Users\Admin\AppData\Local\Programs\Python\Python314\python.exe
+[2026-05-13 20:20:30] adb: C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools\adb.EXE
+[2026-05-13 20:20:30] serial target: 127.0.0.1:16448
+[2026-05-13 20:20:31] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-13 20:20:31] SocksDroid gate: VPN fake IP already active
+[2026-05-13 20:20:31] serial: 127.0.0.1:16448
+[2026-05-13 20:20:31] keyword: may khoan vit
+[2026-05-13 20:20:31] delay multiplier: 1.00
+[2026-05-13 20:20:31] pre-search warmup swipes: 0
+[2026-05-13 20:20:31] flow attempt 1/3
+[2026-05-13 20:20:31] ensure_app_front: bring app front attempt 1/3 (current=app.lawnchair)
+[2026-05-13 20:20:31] SocksDroid gate: VPN fake IP already active
+[2026-05-13 20:20:35] stabilize app startup for 5s
+[2026-05-13 20:20:41] step 1: go home
+[2026-05-13 20:22:37] step 2: open search
+[2026-05-13 20:22:40] open search tab
+[2026-05-13 20:22:44] tapped discover tab
+[2026-05-13 20:22:50] search icon not found by selector, fallback tap top-right
+[2026-05-13 20:22:59] step 3: search keyword
+[2026-05-13 20:23:14] search input ready (attempt 1/5)
+[2026-05-13 20:23:16] typed keyword: may khoan vit
+[2026-05-13 20:23:20] submitted keyword search
+[2026-05-13 20:23:44] search verification failed, retrying search flow
+[2026-05-13 20:24:04] open search tab
+[2026-05-13 20:24:04] search box already visible
+[2026-05-13 20:24:06] search input ready (attempt 2/5)
+[2026-05-13 20:24:11] typed keyword: may khoan vit
+[2026-05-13 20:24:13] submitted keyword search
+[2026-05-13 20:24:19] search verification: keyword visible on UI
+[2026-05-13 20:24:19] step 4: scroll results
+[2026-05-13 20:24:19] scroll search results 2 lines
+[2026-05-13 20:25:19] step 5: open first video
+[2026-05-13 20:25:22] open first visible video from results
+[2026-05-13 20:25:22] try open video candidate 1 at (118,326)

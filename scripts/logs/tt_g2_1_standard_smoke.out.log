@@ -1,0 +1,8 @@
+[2026-05-14 13:32:56] delay multiplier: 1.40
+[2026-05-14 13:32:57] serial: 127.0.0.1:16448
+[2026-05-14 13:32:57] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-14 13:32:57] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:32:57] flow attempt 1/1
+[2026-05-14 13:32:57] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:34:03] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:36:55] open app: com.zhiliaoapp.musically (2/3)

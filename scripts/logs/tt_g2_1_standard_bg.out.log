@@ -1,0 +1,34 @@
+[2026-05-14 12:57:19] delay multiplier: 1.45
+[2026-05-14 12:57:21] serial: 127.0.0.1:16448
+[2026-05-14 12:57:21] critical gate: verify SocksDroid fake IP before TikTok flow
+[2026-05-14 12:57:21] SocksDroid gate: VPN fake IP already active
+[2026-05-14 12:57:21] flow attempt 1/2
+[2026-05-14 12:57:21] SocksDroid gate: VPN fake IP already active
+[2026-05-14 12:57:39] ignore unresolved '+' bounds at (324,897,432,960); use fixed tap
+[2026-05-14 12:57:39] tap '+' attempt 1/3 at (270,917)
+[2026-05-14 12:58:23] home not stable before '+' tap, re-sync to home
+[2026-05-14 12:58:24] SocksDroid gate: VPN fake IP already active
+[2026-05-14 12:58:35] home not stable yet, relaunch instead of back: pkg=com.zhiliaoapp.musically act=com.ss.android.ugc.aweme.adaptation.saa.SAASceneWrapperActivity
+[2026-05-14 12:58:37] SocksDroid gate: VPN fake IP already active
+[2026-05-14 12:58:37] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:00:15] startup splash still visible; wait before relaunch
+[2026-05-14 13:01:55] startup splash still visible; wait before relaunch
+[2026-05-14 13:03:31] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:03:31] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:03:53] home recovery relaunch not ready: 1/3 pkg=com.zhiliaoapp.musically act=com.ss.android.ugc.aweme.splash.SplashActivity
+[2026-05-14 13:03:54] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:03:55] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:04:34] home recovery relaunch not ready: 2/3 pkg=com.zhiliaoapp.musically act=com.ss.android.ugc.aweme.splash.SplashActivity
+[2026-05-14 13:04:36] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:04:36] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:05:47] home recovery relaunch not ready: 3/3 pkg=com.zhiliaoapp.musically act=com.ss.android.ugc.aweme.splash.SplashActivity
+[2026-05-14 13:05:48] flow attempt 1 failed: Cannot reach TikTok home before flow: pkg=com.zhiliaoapp.musically act=com.ss.android.ugc.aweme.splash.SplashActivity
+[2026-05-14 13:05:50] flow attempt 2/2
+[2026-05-14 13:05:50] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:05:50] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:06:11] SocksDroid gate: VPN fake IP already active
+[2026-05-14 13:06:12] open app: com.zhiliaoapp.musically (1/3)
+[2026-05-14 13:06:57] ignore unresolved '+' bounds at (432,897,540,960); use fixed tap
+[2026-05-14 13:06:57] tap '+' attempt 1/3 at (270,917)
+[2026-05-14 13:09:45] home not stable before '+' tap, re-sync to home
+[2026-05-14 13:09:45] SocksDroid gate: VPN fake IP already active

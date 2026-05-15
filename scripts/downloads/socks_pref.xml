@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="udp_proxy" value="false" />
+    <string name="adv_route">all</string>
+    <string name="profile">Default</string>
+    <boolean name="adv_auto_connect" value="false" />
+    <string name="auth_password">uwpiMP</string>
+    <boolean name="adv_per_app" value="false" />
+    <boolean name="ipv6_proxy" value="false" />
+    <string name="adv_dns">8.8.8.8</string>
+    <string name="udp_gw">127.0.0.1:7300</string>
+    <string name="adv_app_list"></string>
+    <string name="auth_username">mQGUvb</string>
+    <string name="adv_dns_port">53</string>
+    <string name="server_ip">118.70.190.208</string>
+    <boolean name="auth_userpw" value="true" />
+    <boolean name="adv_app_bypass" value="false" />
+    <string name="server_port">55067</string>
+</map>

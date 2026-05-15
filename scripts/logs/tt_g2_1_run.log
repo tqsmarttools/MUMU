@@ -1,0 +1,1783 @@
+==== START Fri 05/08/2026 16:16:00.78 ====
+[2026-05-08 16:16:02] serial: 127.0.0.1:16448
+[2026-05-08 16:16:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:16:06] tap '+' attempt 1/4 at (262,937)
+[2026-05-08 16:16:08] create screen opened
+[2026-05-08 16:16:12] FAILED: Cannot find/tap 'Video' tab
+EXIT_CODE=
+==== END Fri 05/08/2026 16:16:12.97 ====
+==== START Fri 05/08/2026 16:18:31.50 ====
+[2026-05-08 16:18:32] serial: 127.0.0.1:16448
+[2026-05-08 16:18:32] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:18:37] tap '+' attempt 1/4 at (263,940)
+[2026-05-08 16:18:40] create screen opened
+[2026-05-08 16:18:40] tap 'Video' fallback attempt 1/4 at (259,356)
+[2026-05-08 16:18:42] tap 'Video' fallback attempt 2/4 at (281,356)
+[2026-05-08 16:18:44] tap 'Video' fallback attempt 3/4 at (264,344)
+[2026-05-08 16:18:45] tap 'Video' fallback attempt 4/4 at (265,351)
+[2026-05-08 16:18:46] FAILED: Cannot find/tap 'Video' tab
+==== END Fri 05/08/2026 16:18:46.92 ====
+==== START Fri 05/08/2026 16:22:16.88 ====
+[2026-05-08 16:22:18] serial: 127.0.0.1:16448
+[2026-05-08 16:22:18] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:22:20] tap '+' attempt 1/4 at (261,925)
+[2026-05-08 16:22:22] create screen opened
+[2026-05-08 16:22:22] tap 'Video' attempt 1/4 at (262,346)
+[2026-05-08 16:22:24] TT-G2.1 completed
+==== END Fri 05/08/2026 16:22:24.49 ====
+==== START Fri 05/08/2026 16:23:19.93 ====
+[2026-05-08 16:23:21] serial: 127.0.0.1:16448
+[2026-05-08 16:23:21] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:23:22] tap '+' attempt 1/4 at (277,918)
+[2026-05-08 16:23:24] create screen opened
+[2026-05-08 16:23:25] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:23:25] tap 'Video' attempt 1/4 at (267,352)
+[2026-05-08 16:23:26] video tab tapped successfully
+[2026-05-08 16:23:26] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:23:26.99 ====
+==== START Fri 05/08/2026 16:26:00.52 ====
+[2026-05-08 16:26:01] serial: 127.0.0.1:16448
+[2026-05-08 16:26:01] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:26:03] tap '+' attempt 1/4 at (270,929)
+[2026-05-08 16:26:06] create screen opened
+[2026-05-08 16:26:06] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:26:06] tap 'Video' attempt 1/4 at (269,345)
+[2026-05-08 16:26:08] video tab tapped successfully
+[2026-05-08 16:26:08] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:26:08.32 ====
+==== START Fri 05/08/2026 16:32:00.86 ====
+[2026-05-08 16:32:02] serial: 127.0.0.1:16448
+[2026-05-08 16:32:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:32:06] tap '+' attempt 1/4 at (257,923)
+[2026-05-08 16:32:08] create screen opened
+[2026-05-08 16:32:09] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:32:09] tap 'Video' attempt 1/4 at (267,349)
+[2026-05-08 16:32:10] video tab tapped successfully
+[2026-05-08 16:32:10] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:32:10.71 ====
+==== START Fri 05/08/2026 16:35:01.36 ====
+[2026-05-08 16:35:02] serial: 127.0.0.1:16448
+[2026-05-08 16:35:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:35:06] tap '+' attempt 1/4 at (257,926)
+[2026-05-08 16:35:08] create screen opened
+[2026-05-08 16:35:08] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:35:09] tap 'Video' attempt 1/4 at (258,355)
+[2026-05-08 16:35:10] video tab tapped successfully
+[2026-05-08 16:35:10] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:35:10.73 ====
+==== START Fri 05/08/2026 16:37:13.04 ====
+[2026-05-08 16:37:14] serial: 127.0.0.1:16448
+[2026-05-08 16:37:14] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:37:16] tap '+' attempt 1/4 at (274,933)
+[2026-05-08 16:37:18] create screen opened
+[2026-05-08 16:37:18] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:37:18] tap 'Video' attempt 1/4 at (274,346)
+[2026-05-08 16:37:20] video tab tapped successfully
+[2026-05-08 16:37:20] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:37:20.41 ====
+==== START Fri 05/08/2026 16:37:58.08 ====
+[2026-05-08 16:37:59] serial: 127.0.0.1:16448
+[2026-05-08 16:37:59] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:38:01] tap '+' attempt 1/4 at (257,940)
+[2026-05-08 16:38:04] create screen opened
+[2026-05-08 16:38:04] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:38:04] tap 'Video' attempt 1/4 at (264,358)
+[2026-05-08 16:38:06] video tab tapped successfully
+[2026-05-08 16:38:07] final state confirmed at Video screen
+[2026-05-08 16:38:07] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:38:07.29 ====
+==== START Fri 05/08/2026 16:46:01.07 ====
+[2026-05-08 16:46:02] serial: 127.0.0.1:16448
+[2026-05-08 16:46:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:46:05] tap '+' attempt 1/4 at (266,942)
+[2026-05-08 16:46:08] create screen opened
+[2026-05-08 16:46:08] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:46:09] tap 'Video' attempt 1/4 at (268,349)
+[2026-05-08 16:46:10] video tab tapped successfully
+[2026-05-08 16:46:11] final state confirmed at Video screen
+[2026-05-08 16:46:11] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:46:11.32 ====
+==== START Fri 05/08/2026 16:49:47.59 ====
+[2026-05-08 16:49:48] serial: 127.0.0.1:16448
+[2026-05-08 16:49:48] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:49:52] tap '+' attempt 1/4 at (281,922)
+[2026-05-08 16:49:55] create screen opened
+[2026-05-08 16:49:55] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:49:55] tap 'Video' attempt 1/4 at (265,356)
+[2026-05-08 16:49:57] video tab tapped successfully
+[2026-05-08 16:49:57] tap first video attempt 1/4 at (76,471)
+[2026-05-08 16:49:59] video selected
+[2026-05-08 16:49:59] tap 'Tiếp' attempt 1/4
+[2026-05-08 16:50:02] tap 'Tiếp' fallback attempt 2/4 at (394,906)
+[2026-05-08 16:50:12] tap 'Tiếp' fallback attempt 3/4 at (394,906)
+[2026-05-08 16:50:16] tap 'Tiếp' fallback attempt 4/4 at (394,906)
+[2026-05-08 16:50:19] FAILED: Cannot open post screen after tapping 'Tiếp'
+EXIT_CODE=1
+==== END Fri 05/08/2026 16:50:19.42 ====
+==== START Fri 05/08/2026 16:52:22.17 ====
+[2026-05-08 16:52:23] serial: 127.0.0.1:16448
+[2026-05-08 16:52:23] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:52:28] tap '+' attempt 1/4 at (278,929)
+[2026-05-08 16:52:30] create screen opened
+[2026-05-08 16:52:40] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:53:30] tap 'Video' fallback attempt 1/4 at (277,358)
+[2026-05-08 16:54:12] video tab fallback accepted on create screen
+[2026-05-08 16:54:23] tap first video attempt 1/4 at (78,459)
+[2026-05-08 16:54:25] tap first video attempt 2/4 at (103,453)
+[2026-05-08 16:54:28] tap first video attempt 3/4 at (95,475)
+[2026-05-08 16:54:30] tap first video attempt 4/4 at (81,486)
+[2026-05-08 16:54:33] FAILED: Cannot open video edit screen from picker
+EXIT_CODE=1
+==== END Fri 05/08/2026 16:54:33.62 ====
+==== START Fri 05/08/2026 16:55:17.28 ====
+[2026-05-08 16:55:18] serial: 127.0.0.1:16448
+[2026-05-08 16:55:18] open app: com.zhiliaoapp.musically.go
+[2026-05-08 16:55:23] tap '+' attempt 1/4 at (264,931)
+[2026-05-08 16:55:26] create screen opened
+[2026-05-08 16:55:27] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 16:55:27] tap 'Video' attempt 1/4 at (265,352)
+[2026-05-08 16:55:28] video tab tapped successfully
+[2026-05-08 16:55:29] tap first video attempt 1/4 at (92,493)
+[2026-05-08 16:55:32] video selected
+[2026-05-08 16:55:32] tap 'Next' attempt 1/4
+[2026-05-08 16:55:35] post screen opened
+[2026-05-08 16:55:36] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 16:55:36] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 16:55:36.37 ====
+==== START Fri 05/08/2026 20:50:01.37 ====
+[2026-05-08 20:50:04] serial: 127.0.0.1:16448
+[2026-05-08 20:50:04] open app: com.zhiliaoapp.musically.go
+[2026-05-08 20:50:11] tap '+' attempt 1/4 at (263,938)
+[2026-05-08 20:50:14] create screen opened
+[2026-05-08 20:50:15] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 20:50:15] tap 'Video' attempt 1/4 at (266,355)
+[2026-05-08 20:50:21] video-tab check attempt 2/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 20:50:58] tap 'Video' fallback attempt 2/4 at (282,360)
+[2026-05-08 20:51:01] video-tab check attempt 3/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 20:51:02] tap 'Video' fallback attempt 3/4 at (280,360)
+[2026-05-08 20:51:04] video-tab check attempt 4/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 20:51:04] tap 'Video' fallback attempt 4/4 at (275,351)
+[2026-05-08 20:51:06] video tab selector drift; continue because TikTok create flow is active
+[2026-05-08 20:51:07] tap first video attempt 1/4 at (79,455)
+[2026-05-08 20:51:12] tap first video attempt 2/4 at (85,463)
+[2026-05-08 20:51:17] tap first video attempt 3/4 at (100,477)
+[2026-05-08 20:51:21] tap first video attempt 4/4 at (106,456)
+[2026-05-08 20:51:25] tap first video hard fallback at (90,470)
+[2026-05-08 20:51:27] FAILED: Cannot open video edit screen from picker
+EXIT_CODE=1
+==== END Fri 05/08/2026 20:51:28.01 ====
+==== START Fri 05/08/2026 20:53:06.97 ====
+[2026-05-08 20:53:09] serial: 127.0.0.1:16448
+[2026-05-08 20:53:09] open app: com.zhiliaoapp.musically.go
+[2026-05-08 20:53:15] tap '+' attempt 1/4 at (284,920)
+[2026-05-08 20:53:17] create screen opened
+[2026-05-08 20:53:18] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 20:53:18] tap 'Video' attempt 1/4 at (265,358)
+[2026-05-08 20:53:21] video tab tapped successfully
+[2026-05-08 20:53:21] tap first video attempt 1/4 at (107,466)
+[2026-05-08 20:53:30] tap first video attempt 2/4 at (86,475)
+[2026-05-08 20:53:35] tap first video attempt 3/4 at (107,460)
+[2026-05-08 20:54:12] tap first video attempt 4/4 at (101,473)
+[2026-05-08 20:54:15] tap first video hard fallback at (90,470)
+[2026-05-08 20:54:17] FAILED: Cannot open video edit screen from picker
+EXIT_CODE=1
+==== END Fri 05/08/2026 20:54:17.98 ====
+==== START Fri 05/08/2026 20:57:33.46 ====
+[2026-05-08 20:57:35] serial: 127.0.0.1:16448
+[2026-05-08 20:57:35] flow attempt 1/3
+[2026-05-08 20:57:35] open app: com.zhiliaoapp.musically.go
+[2026-05-08 20:57:41] tap '+' attempt 1/4 at (274,936)
+[2026-05-08 20:57:43] create screen opened
+[2026-05-08 20:57:44] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 20:57:44] tap 'Video' attempt 1/4 at (268,354)
+[2026-05-08 20:57:46] video tab tapped successfully
+[2026-05-08 20:57:46] tap first video attempt 1/4 at (92,477)
+[2026-05-08 20:57:50] video selected
+[2026-05-08 20:57:51] tap 'Next' attempt 1/4
+[2026-05-08 20:57:54] tap 'Next' fallback attempt 2/4 at (394,906)
+[2026-05-08 20:58:06] tap 'Next' fallback attempt 3/4 at (394,906)
+[2026-05-08 20:58:40] tap 'Next' fallback attempt 4/4 at (394,906)
+[2026-05-08 20:58:43] flow attempt 1 failed: Cannot open post screen after tapping 'Next'
+[2026-05-08 20:58:45] flow attempt 2/3
+[2026-05-08 20:58:45] open app: com.zhiliaoapp.musically.go
+[2026-05-08 20:58:51] tap '+' attempt 1/4 at (274,926)
+[2026-05-08 20:58:53] tap '+' attempt 2/4 at (267,933)
+[2026-05-08 20:58:55] gallery opened after '+', back and retry
+[2026-05-08 20:58:57] tap '+' attempt 3/4 at (267,936)
+[2026-05-08 20:59:00] gallery opened after '+', back and retry
+[2026-05-08 20:59:02] tap '+' attempt 4/4 at (275,941)
+[2026-05-08 20:59:04] flow attempt 2 failed: Cannot open create screen from '+' button
+[2026-05-08 20:59:06] flow attempt 3/3
+[2026-05-08 20:59:06] open app: com.zhiliaoapp.musically.go
+[2026-05-08 20:59:21] tap '+' attempt 1/4 at (260,922)
+[2026-05-08 20:59:46] tap '+' attempt 2/4 at (270,923)
+[2026-05-08 20:59:49] create screen opened
+[2026-05-08 20:59:50] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 20:59:51] tap 'Video' attempt 1/4 at (270,346)
+[2026-05-08 20:59:52] video tab tapped successfully
+[2026-05-08 20:59:53] tap first video attempt 1/4 at (90,460)
+[2026-05-08 20:59:56] video selected
+[2026-05-08 20:59:57] tap 'Next' attempt 1/4
+[2026-05-08 20:59:59] post screen opened
+[2026-05-08 21:00:00] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:00:00] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:00:00.49 ====
+==== START Fri 05/08/2026 21:03:01.07 ====
+[2026-05-08 21:03:02] serial: 127.0.0.1:16448
+[2026-05-08 21:03:02] flow attempt 1/3
+[2026-05-08 21:03:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:03:06] tap '+' attempt 1/4 at (275,941)
+[2026-05-08 21:03:08] create screen opened
+[2026-05-08 21:03:08] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:03:09] tap 'Video' attempt 1/4 at (265,343)
+[2026-05-08 21:03:11] video tab tapped successfully
+[2026-05-08 21:03:11] tap first video attempt 1/4 at (107,463)
+[2026-05-08 21:03:16] tap first video attempt 2/4 at (87,448)
+[2026-05-08 21:03:24] tap first video attempt 3/4 at (95,483)
+[2026-05-08 21:04:06] tap first video attempt 4/4 at (105,474)
+[2026-05-08 21:04:09] tap first video hard fallback at (90,470)
+[2026-05-08 21:04:12] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:04:13] flow attempt 2/3
+[2026-05-08 21:04:13] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:04:20] tap '+' attempt 1/4 at (266,942)
+[2026-05-08 21:04:23] tap '+' attempt 2/4 at (279,919)
+[2026-05-08 21:04:26] create screen opened
+[2026-05-08 21:04:26] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:04:26] tap 'Video' attempt 1/4 at (280,353)
+[2026-05-08 21:04:28] video tab tapped successfully
+[2026-05-08 21:04:29] tap first video attempt 1/4 at (104,469)
+[2026-05-08 21:04:33] video selected
+[2026-05-08 21:04:34] tap 'Next' attempt 1/4
+[2026-05-08 21:04:36] post screen opened
+[2026-05-08 21:05:02] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:05:02] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:05:03.72 ====
+==== START Fri 05/08/2026 21:05:21.99 ====
+[2026-05-08 21:05:24] serial: 127.0.0.1:16448
+[2026-05-08 21:05:24] flow attempt 1/3
+[2026-05-08 21:05:24] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:05:37] tap '+' attempt 1/4 at (267,939)
+[2026-05-08 21:05:59] tap '+' attempt 2/4 at (274,918)
+[2026-05-08 21:06:06] create screen opened
+[2026-05-08 21:06:16] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:07:08] tap 'Video' fallback attempt 1/4 at (268,345)
+[2026-05-08 21:07:52] video tab fallback accepted on create screen
+[2026-05-08 21:08:13] tap first video attempt 1/4 at (94,486)
+[2026-05-08 21:08:21] tap first video attempt 2/4 at (79,473)
+[2026-05-08 21:08:26] tap first video attempt 3/4 at (103,481)
+[2026-05-08 21:08:30] tap first video attempt 4/4 at (89,463)
+[2026-05-08 21:08:33] tap first video hard fallback at (90,470)
+[2026-05-08 21:08:37] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:08:38] flow attempt 2/3
+[2026-05-08 21:08:38] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:08:44] tap '+' attempt 1/4 at (276,929)
+[2026-05-08 21:08:48] create screen opened
+[2026-05-08 21:09:03] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:09:09] flow attempt 2 failed: Remote end closed connection without response
+[2026-05-08 21:09:21] flow attempt 3/3
+[2026-05-08 21:09:21] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:09:27] tap '+' attempt 1/4 at (265,935)
+[2026-05-08 21:09:30] create screen opened
+[2026-05-08 21:09:30] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:09:30] tap 'Video' attempt 1/4 at (280,350)
+[2026-05-08 21:09:32] video tab tapped successfully
+[2026-05-08 21:09:33] tap first video attempt 1/4 at (102,461)
+[2026-05-08 21:09:36] video selected
+[2026-05-08 21:09:36] tap 'Next' attempt 1/4
+[2026-05-08 21:09:39] post screen opened
+[2026-05-08 21:09:40] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:09:40] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:09:40.58 ====
+==== START Fri 05/08/2026 21:09:43.01 ====
+[2026-05-08 21:09:45] serial: 127.0.0.1:16448
+[2026-05-08 21:09:45] flow attempt 1/3
+[2026-05-08 21:09:45] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:09:50] tap '+' attempt 1/4 at (258,938)
+[2026-05-08 21:09:53] create screen opened
+[2026-05-08 21:09:55] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:09:58] tap 'Video' attempt 1/4 at (276,349)
+[2026-05-08 21:10:26] video tab tapped successfully
+[2026-05-08 21:10:27] tap first video attempt 1/4 at (108,471)
+[2026-05-08 21:10:34] tap first video attempt 2/4 at (101,468)
+[2026-05-08 21:10:39] tap first video attempt 3/4 at (93,473)
+[2026-05-08 21:10:43] tap first video attempt 4/4 at (102,458)
+[2026-05-08 21:10:47] tap first video hard fallback at (90,470)
+[2026-05-08 21:10:50] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:10:51] flow attempt 2/3
+[2026-05-08 21:10:51] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:11:08] tap '+' attempt 1/4 at (282,919)
+[2026-05-08 21:11:25] tap '+' attempt 2/4 at (284,918)
+[2026-05-08 21:11:28] create screen opened
+[2026-05-08 21:11:28] video-tab check attempt 1/4: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:11:29] tap 'Video' fallback attempt 1/4 at (262,354)
+[2026-05-08 21:11:38] video-tab check attempt 2/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:11:39] tap 'Video' fallback attempt 2/4 at (269,345)
+[2026-05-08 21:11:42] video-tab check attempt 3/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:11:42] tap 'Video' fallback attempt 3/4 at (279,354)
+[2026-05-08 21:11:44] video-tab check attempt 4/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:11:44] tap 'Video' fallback attempt 4/4 at (275,350)
+[2026-05-08 21:11:46] video tab selector drift; continue because video picker is still visible
+[2026-05-08 21:11:47] tap first video attempt 1/4 at (94,449)
+[2026-05-08 21:11:51] tap first video attempt 2/4 at (72,446)
+[2026-05-08 21:11:55] tap first video attempt 3/4 at (83,491)
+[2026-05-08 21:12:35] tap first video attempt 4/4 at (90,455)
+[2026-05-08 21:12:38] tap first video hard fallback at (90,470)
+[2026-05-08 21:12:41] flow attempt 2 failed: Cannot open video edit screen from picker
+[2026-05-08 21:12:43] flow attempt 3/3
+[2026-05-08 21:12:43] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:12:49] tap '+' attempt 1/4 at (282,930)
+[2026-05-08 21:12:51] tap '+' attempt 2/4 at (274,940)
+[2026-05-08 21:12:53] tap '+' attempt 3/4 at (256,933)
+[2026-05-08 21:12:55] tap '+' attempt 4/4 at (274,923)
+[2026-05-08 21:12:58] flow attempt 3 failed: Cannot open create screen from '+' button
+[2026-05-08 21:12:58] FAILED: Cannot open create screen from '+' button
+EXIT_CODE=1
+==== END Fri 05/08/2026 21:12:58.16 ====
+==== START Fri 05/08/2026 21:16:56.45 ====
+[2026-05-08 21:16:58] serial: 127.0.0.1:16448
+[2026-05-08 21:16:58] flow attempt 1/3
+[2026-05-08 21:16:58] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:17:05] tap '+' attempt 1/4 at (265,924)
+[2026-05-08 21:17:10] create screen opened
+[2026-05-08 21:17:33] video-tab check attempt 1/4: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:17:41] tap 'Video' fallback attempt 1/4 at (267,349)
+[2026-05-08 21:18:07] video-tab check attempt 2/4: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:18:07] tap 'Video' fallback attempt 2/4 at (274,357)
+[2026-05-08 21:18:08] video-tab check attempt 3/4: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:18:09] tap 'Video' fallback attempt 3/4 at (274,345)
+[2026-05-08 21:18:10] video-tab check attempt 4/4: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:18:10] tap 'Video' fallback attempt 4/4 at (273,355)
+[2026-05-08 21:18:11] video tab selector drift; continue because video picker is still visible
+[2026-05-08 21:18:12] tap first video attempt 1/4 at (97,491)
+[2026-05-08 21:18:15] tap first video attempt 2/4 at (99,474)
+[2026-05-08 21:18:20] tap first video attempt 3/4 at (84,482)
+[2026-05-08 21:18:23] tap first video attempt 4/4 at (100,464)
+[2026-05-08 21:18:26] tap first video hard fallback at (90,470)
+[2026-05-08 21:18:28] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:18:30] flow attempt 2/3
+[2026-05-08 21:18:30] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:18:47] tap '+' attempt 1/4 at (266,926)
+[2026-05-08 21:19:16] tap '+' attempt 2/4 at (265,922)
+[2026-05-08 21:19:18] create screen opened
+[2026-05-08 21:19:19] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:19:19] tap 'Video' attempt 1/4 at (280,357)
+[2026-05-08 21:19:21] video tab tapped successfully
+[2026-05-08 21:19:22] tap first video attempt 1/4 at (88,466)
+[2026-05-08 21:19:26] video selected
+[2026-05-08 21:19:26] tap 'Next' attempt 1/4
+[2026-05-08 21:19:28] post screen opened
+[2026-05-08 21:19:29] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:19:29] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:19:29.37 ====
+==== START Fri 05/08/2026 21:19:31.88 ====
+[2026-05-08 21:19:33] serial: 127.0.0.1:16448
+[2026-05-08 21:19:33] flow attempt 1/3
+[2026-05-08 21:19:33] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:19:39] tap '+' attempt 1/4 at (257,919)
+[2026-05-08 21:19:42] create screen opened
+[2026-05-08 21:19:43] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:19:43] tap 'Video' attempt 1/4 at (259,348)
+[2026-05-08 21:19:44] video tab tapped successfully
+[2026-05-08 21:19:45] tap first video attempt 1/4 at (96,494)
+[2026-05-08 21:19:49] video selected
+[2026-05-08 21:19:50] tap 'Next' attempt 1/4
+[2026-05-08 21:20:30] tap 'Next' fallback attempt 2/4 at (394,906)
+[2026-05-08 21:20:34] tap 'Next' fallback attempt 3/4 at (394,906)
+[2026-05-08 21:20:37] tap 'Next' fallback attempt 4/4 at (394,906)
+[2026-05-08 21:20:40] flow attempt 1 failed: Cannot open post screen after tapping 'Next'
+[2026-05-08 21:20:42] flow attempt 2/3
+[2026-05-08 21:20:42] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:20:48] tap '+' attempt 1/4 at (270,919)
+[2026-05-08 21:20:51] create screen opened
+[2026-05-08 21:20:51] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:20:51] tap 'Video' attempt 1/4 at (268,344)
+[2026-05-08 21:20:53] video tab tapped successfully
+[2026-05-08 21:20:54] tap first video attempt 1/4 at (90,473)
+[2026-05-08 21:21:34] tap 'Next' attempt 1/4
+[2026-05-08 21:21:36] post screen opened
+[2026-05-08 21:21:37] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:21:37] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:21:37.58 ====
+==== START Fri 05/08/2026 21:23:58.55 ====
+[2026-05-08 21:24:05] FAILED: device offline
+EXIT_CODE=1
+==== END Fri 05/08/2026 21:24:05.08 ====
+==== START Fri 05/08/2026 21:24:56.74 ====
+[2026-05-08 21:27:04] connect attempt 1/4 failed: ADB not ready for 127.0.0.1:16448
+[2026-05-08 21:29:13] connect attempt 2/4 failed: ADB not ready for 127.0.0.1:16448
+[2026-05-08 21:31:22] connect attempt 3/4 failed: ADB not ready for 127.0.0.1:16448
+==== START Fri 05/08/2026 21:37:02.76 ====
+[2026-05-08 21:37:04] serial: 127.0.0.1:16448
+[2026-05-08 21:37:04] flow attempt 1/3
+[2026-05-08 21:37:04] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:37:14] tap '+' attempt 1/4 at (284,941)
+[2026-05-08 21:37:19] tap '+' attempt 2/4 at (267,926)
+[2026-05-08 21:37:21] create screen opened
+[2026-05-08 21:37:22] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:37:22] tap 'Video' attempt 1/4 at (257,356)
+[2026-05-08 21:37:24] video tab tapped successfully
+[2026-05-08 21:37:24] tap first video attempt 1/4 at (88,480)
+[2026-05-08 21:38:11] tap first video attempt 2/4 at (100,446)
+[2026-05-08 21:38:15] tap first video attempt 3/4 at (86,485)
+[2026-05-08 21:38:18] tap first video attempt 4/4 at (86,448)
+[2026-05-08 21:38:27] tap first video hard fallback at (90,470)
+[2026-05-08 21:38:29] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:38:30] flow attempt 2/3
+[2026-05-08 21:38:30] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:38:36] tap '+' attempt 1/4 at (278,934)
+[2026-05-08 21:38:39] create screen opened
+[2026-05-08 21:38:41] video-tab check attempt 1/4: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:38:41] flow attempt 2 failed: Left TikTok while opening Video tab: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 21:38:42] flow attempt 3/3
+[2026-05-08 21:38:42] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:39:11] tap '+' attempt 1/4 at (261,921)
+[2026-05-08 21:39:24] tap '+' attempt 2/4 at (261,940)
+[2026-05-08 21:39:26] create screen opened
+[2026-05-08 21:39:27] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:39:27] tap 'Video' attempt 1/4 at (257,354)
+[2026-05-08 21:39:30] video tab tapped successfully
+[2026-05-08 21:39:31] tap first video attempt 1/4 at (73,487)
+[2026-05-08 21:39:34] video selected
+[2026-05-08 21:39:35] tap 'Next' attempt 1/4
+[2026-05-08 21:39:37] post screen opened
+[2026-05-08 21:39:37] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:39:37] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:39:37.97 ====
+==== START Fri 05/08/2026 21:40:31.00 ====
+[2026-05-08 21:40:33] serial: 127.0.0.1:16448
+[2026-05-08 21:40:33] flow attempt 1/3
+[2026-05-08 21:40:33] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:40:39] tap '+' attempt 1/4 at (276,934)
+[2026-05-08 21:40:42] create screen opened
+[2026-05-08 21:40:42] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:40:43] tap 'Video' attempt 1/4 at (267,353)
+[2026-05-08 21:40:44] video tab tapped successfully
+[2026-05-08 21:40:45] tap first video attempt 1/4 at (93,474)
+[2026-05-08 21:40:49] video selected
+[2026-05-08 21:40:49] tap 'Next' attempt 1/4
+[2026-05-08 21:41:33] tap 'Next' fallback attempt 2/4 at (394,906)
+[2026-05-08 21:41:40] tap 'Next' fallback attempt 3/4 at (394,906)
+[2026-05-08 21:41:44] tap 'Next' fallback attempt 4/4 at (394,906)
+[2026-05-08 21:41:47] flow attempt 1 failed: Cannot open post screen after tapping 'Next'
+[2026-05-08 21:41:49] flow attempt 2/3
+[2026-05-08 21:41:49] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:41:55] tap '+' attempt 1/4 at (276,925)
+[2026-05-08 21:41:58] create screen opened
+[2026-05-08 21:41:59] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:41:59] tap 'Video' attempt 1/4 at (258,355)
+[2026-05-08 21:42:01] video tab tapped successfully
+[2026-05-08 21:42:02] tap first video attempt 1/4 at (97,470)
+[2026-05-08 21:42:48] tap first video attempt 2/4 at (108,476)
+[2026-05-08 21:42:52] tap first video attempt 3/4 at (79,460)
+[2026-05-08 21:42:56] tap first video attempt 4/4 at (73,482)
+[2026-05-08 21:42:59] tap first video hard fallback at (90,470)
+[2026-05-08 21:43:01] flow attempt 2 failed: Cannot open video edit screen from picker
+[2026-05-08 21:43:03] flow attempt 3/3
+[2026-05-08 21:43:03] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:43:09] tap '+' attempt 1/4 at (260,929)
+[2026-05-08 21:43:12] create screen opened
+[2026-05-08 21:43:12] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:43:12] tap 'Video' attempt 1/4 at (266,352)
+[2026-05-08 21:43:14] video tab tapped successfully
+[2026-05-08 21:43:15] tap first video attempt 1/4 at (89,477)
+[2026-05-08 21:43:18] video selected
+[2026-05-08 21:43:19] tap 'Next' attempt 1/4
+[2026-05-08 21:43:57] tap 'Next' fallback attempt 2/4 at (394,906)
+[2026-05-08 21:44:04] tap 'Next' fallback attempt 3/4 at (394,906)
+[2026-05-08 21:44:08] tap 'Next' fallback attempt 4/4 at (394,906)
+[2026-05-08 21:44:10] flow attempt 3 failed: Cannot open post screen after tapping 'Next'
+[2026-05-08 21:44:10] FAILED: Cannot open post screen after tapping 'Next'
+EXIT_CODE=1
+==== END Fri 05/08/2026 21:44:11.06 ====
+==== START Fri 05/08/2026 21:45:04.57 ====
+[2026-05-08 21:45:06] serial: 127.0.0.1:16448
+[2026-05-08 21:45:06] flow attempt 1/5
+[2026-05-08 21:45:06] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:45:12] tap '+' attempt 1/4 at (264,925)
+[2026-05-08 21:45:15] create screen opened
+[2026-05-08 21:45:21] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:45:22] tap 'Video' fallback attempt 1/4 at (274,351)
+[2026-05-08 21:46:03] video-tab check attempt 2/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:46:03] tap 'Video' fallback attempt 2/4 at (280,349)
+[2026-05-08 21:46:06] video-tab check attempt 3/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:46:07] tap 'Video' fallback attempt 3/4 at (266,349)
+[2026-05-08 21:46:09] video-tab check attempt 4/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:46:09] tap 'Video' fallback attempt 4/4 at (275,352)
+[2026-05-08 21:46:11] video tab selector drift; continue because video picker is still visible
+[2026-05-08 21:46:11] tap first video attempt 1/4 at (100,482)
+[2026-05-08 21:46:15] tap first video attempt 2/4 at (91,480)
+[2026-05-08 21:46:18] tap first video attempt 3/4 at (79,449)
+[2026-05-08 21:46:22] tap first video attempt 4/4 at (77,460)
+[2026-05-08 21:46:25] tap first video hard fallback at (90,470)
+[2026-05-08 21:46:28] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:46:29] flow attempt 2/5
+[2026-05-08 21:46:29] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:46:35] tap '+' attempt 1/4 at (270,928)
+[2026-05-08 21:46:37] create screen opened
+[2026-05-08 21:46:38] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:46:38] tap 'Video' attempt 1/4 at (273,350)
+[2026-05-08 21:46:40] video tab tapped successfully
+[2026-05-08 21:46:42] tap first video attempt 1/4 at (80,465)
+[2026-05-08 21:47:22] tap first video attempt 2/4 at (88,480)
+[2026-05-08 21:47:28] tap first video attempt 3/4 at (105,491)
+[2026-05-08 21:47:32] tap first video attempt 4/4 at (85,458)
+[2026-05-08 21:47:34] tap first video hard fallback at (90,470)
+[2026-05-08 21:47:37] flow attempt 2 failed: Cannot open video edit screen from picker
+[2026-05-08 21:47:38] flow attempt 3/5
+[2026-05-08 21:47:38] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:47:44] tap '+' attempt 1/4 at (274,935)
+[2026-05-08 21:47:47] tap '+' attempt 2/4 at (270,932)
+[2026-05-08 21:47:57] tap '+' attempt 3/4 at (278,936)
+[2026-05-08 21:48:07] tap '+' attempt 4/4 at (261,929)
+[2026-05-08 21:48:18] flow attempt 3 failed: Cannot open create screen from '+' button
+[2026-05-08 21:48:20] flow attempt 4/5
+[2026-05-08 21:48:20] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:48:26] tap '+' attempt 1/4 at (280,930)
+[2026-05-08 21:48:28] create screen opened
+[2026-05-08 21:48:29] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:48:30] tap 'Video' attempt 1/4 at (270,357)
+[2026-05-08 21:48:31] video tab tapped successfully
+[2026-05-08 21:48:33] tap first video attempt 1/4 at (102,498)
+[2026-05-08 21:48:36] video selected
+[2026-05-08 21:48:36] tap 'Next' attempt 1/4
+[2026-05-08 21:48:39] post screen opened
+[2026-05-08 21:48:40] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:48:40] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:48:40.16 ====
+==== START Fri 05/08/2026 21:53:00.63 ====
+[2026-05-08 21:53:01] serial: 127.0.0.1:16448
+[2026-05-08 21:53:01] flow attempt 1/5
+[2026-05-08 21:53:01] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:53:15] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:53:34] tap '+' attempt 1/4 at (274,924)
+[2026-05-08 21:54:01] tap '+' attempt 2/4 at (262,928)
+[2026-05-08 21:54:03] create screen opened
+[2026-05-08 21:54:04] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:54:05] tap 'Video' attempt 1/4 at (264,357)
+[2026-05-08 21:54:06] video tab tapped successfully
+[2026-05-08 21:54:12] tap first video attempt 1/4 at (86,451)
+[2026-05-08 21:54:18] tap first video attempt 2/4 at (99,460)
+[2026-05-08 21:54:22] tap first video attempt 3/4 at (76,494)
+[2026-05-08 21:54:27] tap first video attempt 4/4 at (86,466)
+[2026-05-08 21:54:30] tap first video hard fallback at (90,470)
+[2026-05-08 21:54:39] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 21:54:46] flow attempt 2/5
+[2026-05-08 21:54:51] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:55:09] tap '+' attempt 1/4 at (274,930)
+[2026-05-08 21:55:12] create screen opened
+[2026-05-08 21:55:15] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:55:16] tap 'Video' fallback attempt 1/4 at (280,349)
+[2026-05-08 21:55:18] video-tab check attempt 2/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:55:18] tap 'Video' fallback attempt 2/4 at (282,345)
+[2026-05-08 21:55:20] video-tab check attempt 3/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:55:20] tap 'Video' fallback attempt 3/4 at (276,346)
+[2026-05-08 21:55:22] video-tab check attempt 4/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-08 21:55:23] tap 'Video' fallback attempt 4/4 at (263,355)
+[2026-05-08 21:55:24] video tab selector drift; continue because video picker is still visible
+[2026-05-08 21:55:25] tap first video attempt 1/4 at (89,457)
+[2026-05-08 21:55:28] tap first video attempt 2/4 at (93,483)
+[2026-05-08 21:55:32] tap first video attempt 3/4 at (87,487)
+[2026-05-08 21:55:35] tap first video attempt 4/4 at (95,448)
+[2026-05-08 21:55:38] tap first video hard fallback at (90,470)
+[2026-05-08 21:55:40] flow attempt 2 failed: Cannot open video edit screen from picker
+[2026-05-08 21:55:42] flow attempt 3/5
+[2026-05-08 21:55:42] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:56:00] tap '+' attempt 1/4 at (280,925)
+[2026-05-08 21:56:21] tap '+' attempt 2/4 at (275,926)
+[2026-05-08 21:56:24] create screen opened
+[2026-05-08 21:56:24] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:56:24] tap 'Video' attempt 1/4 at (277,350)
+[2026-05-08 21:56:26] video tab tapped successfully
+[2026-05-08 21:56:26] tap first video attempt 1/4 at (90,468)
+[2026-05-08 21:56:35] tap first video attempt 2/4 at (81,478)
+[2026-05-08 21:56:39] tap first video attempt 3/4 at (102,478)
+[2026-05-08 21:56:43] tap first video attempt 4/4 at (81,465)
+[2026-05-08 21:56:45] tap first video hard fallback at (90,470)
+[2026-05-08 21:56:48] flow attempt 3 failed: Cannot open video edit screen from picker
+[2026-05-08 21:56:49] flow attempt 4/5
+[2026-05-08 21:56:49] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:56:55] tap '+' attempt 1/4 at (280,933)
+[2026-05-08 21:57:26] tap '+' attempt 2/4 at (280,934)
+[2026-05-08 21:57:29] tap '+' attempt 3/4 at (275,935)
+[2026-05-08 21:57:31] tap '+' attempt 4/4 at (276,932)
+[2026-05-08 21:57:33] flow attempt 4 failed: Cannot open create screen from '+' button
+[2026-05-08 21:57:35] flow attempt 5/5
+[2026-05-08 21:57:35] open app: com.zhiliaoapp.musically.go
+[2026-05-08 21:57:39] tap '+' attempt 1/4 at (274,934)
+[2026-05-08 21:57:41] create screen opened
+[2026-05-08 21:57:42] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 21:57:42] tap 'Video' attempt 1/4 at (265,344)
+[2026-05-08 21:57:43] video tab tapped successfully
+[2026-05-08 21:57:44] tap first video attempt 1/4 at (73,495)
+[2026-05-08 21:57:47] video selected
+[2026-05-08 21:57:48] tap 'Next' attempt 1/4
+[2026-05-08 21:57:51] post screen opened
+[2026-05-08 21:57:52] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 21:57:52] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 21:57:52.16 ====
+==== START Fri 05/08/2026 22:00:00.78 ====
+[2026-05-08 22:00:01] serial: 127.0.0.1:16448
+[2026-05-08 22:00:01] flow attempt 1/5
+[2026-05-08 22:00:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:00:06] tap '+' attempt 1/4 at (268,933)
+[2026-05-08 22:00:08] create screen opened
+[2026-05-08 22:00:08] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:00:09] tap 'Video' attempt 1/4 at (267,356)
+[2026-05-08 22:00:10] video tab tapped successfully
+[2026-05-08 22:00:11] tap first video attempt 1/4 at (76,487)
+[2026-05-08 22:00:15] video selected
+[2026-05-08 22:00:17] tap 'Next' attempt 1/4
+[2026-05-08 22:00:24] flow attempt 1 failed: Returned to TikTok home after tapping Next
+[2026-05-08 22:00:26] flow attempt 2/5
+[2026-05-08 22:00:26] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:00:41] tap '+' attempt 1/4 at (274,932)
+[2026-05-08 22:01:09] tap '+' attempt 2/4 at (276,931)
+[2026-05-08 22:01:14] create screen opened
+[2026-05-08 22:01:14] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:01:14] tap 'Video' attempt 1/4 at (263,346)
+[2026-05-08 22:01:16] video tab tapped successfully
+[2026-05-08 22:01:17] tap first video attempt 1/4 at (88,487)
+[2026-05-08 22:01:20] video selected
+[2026-05-08 22:01:21] tap 'Next' attempt 1/4
+[2026-05-08 22:01:24] post screen opened
+[2026-05-08 22:01:24] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 22:01:24] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 22:01:25.07 ====
+==== START Fri 05/08/2026 22:04:23.69 ====
+[2026-05-08 22:04:25] serial: 127.0.0.1:16448
+[2026-05-08 22:04:25] flow attempt 1/5
+[2026-05-08 22:04:25] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:04:39] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:05:21] tap '+' attempt 1/4 at (261,927)
+[2026-05-08 22:05:23] create screen opened
+[2026-05-08 22:05:24] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:05:24] tap 'Video' attempt 1/4 at (267,349)
+[2026-05-08 22:05:26] video tab tapped successfully
+[2026-05-08 22:05:28] tap first video attempt 1/4 at (71,451)
+[2026-05-08 22:05:32] video selected
+[2026-05-08 22:05:32] tap 'Next' attempt 1/4
+[2026-05-08 22:05:35] post screen opened
+[2026-05-08 22:05:36] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 22:05:36] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 22:05:36.34 ====
+==== START Fri 05/08/2026 22:05:55.60 ====
+[2026-05-08 22:06:09] connect attempt 1/4 failed: Remote end closed connection without response
+[2026-05-08 22:06:19] FAILED: Command '['adb', 'disconnect', '127.0.0.1:16448']' timed out after 10 seconds
+EXIT_CODE=1
+==== END Fri 05/08/2026 22:06:23.81 ====
+==== START Fri 05/08/2026 22:06:55.06 ====
+[2026-05-08 22:06:57] serial: 127.0.0.1:16448
+[2026-05-08 22:06:57] flow attempt 1/3
+[2026-05-08 22:06:57] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:07:44] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:07:51] tap '+' attempt 1/4 at (278,935)
+[2026-05-08 22:07:53] create screen opened
+[2026-05-08 22:07:54] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:07:54] tap 'Video' attempt 1/4 at (268,345)
+[2026-05-08 22:07:56] video tab tapped successfully
+[2026-05-08 22:07:57] tap first video attempt 1/4 at (93,451)
+[2026-05-08 22:08:00] video selected
+[2026-05-08 22:08:01] tap 'Next' attempt 1/4
+[2026-05-08 22:08:08] flow attempt 1 failed: Returned to TikTok home after tapping Next
+[2026-05-08 22:08:09] flow attempt 2/3
+[2026-05-08 22:08:09] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:08:15] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:08:41] tap '+' attempt 1/4 at (278,934)
+[2026-05-08 22:08:53] tap '+' attempt 2/4 at (265,929)
+[2026-05-08 22:08:55] create screen opened
+[2026-05-08 22:08:56] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:08:56] tap 'Video' attempt 1/4 at (258,345)
+[2026-05-08 22:08:58] video tab tapped successfully
+[2026-05-08 22:08:59] tap first video attempt 1/4 at (75,490)
+[2026-05-08 22:09:02] video selected
+[2026-05-08 22:09:03] tap 'Next' attempt 1/4
+[2026-05-08 22:09:06] post screen opened
+[2026-05-08 22:09:07] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 22:09:07] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 22:09:07.25 ====
+==== START Fri 05/08/2026 22:12:59.90 ====
+[2026-05-08 22:13:11] serial: 127.0.0.1:16448
+[2026-05-08 22:13:11] flow attempt 1/3
+[2026-05-08 22:13:11] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:13:19] tap '+' attempt 1/4 at (269,932)
+[2026-05-08 22:13:21] create screen opened
+[2026-05-08 22:13:21] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:13:21] tap 'Video' attempt 1/4 at (262,352)
+[2026-05-08 22:13:23] video tab tapped successfully
+[2026-05-08 22:13:24] tap first video attempt 1/4 at (92,479)
+[2026-05-08 22:13:27] video selected
+[2026-05-08 22:13:27] tap 'Next' attempt 1/4
+[2026-05-08 22:13:30] post screen opened
+[2026-05-08 22:13:31] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 22:13:31] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 22:13:31.53 ====
+==== START Fri 05/08/2026 22:17:07.50 ====
+[2026-05-08 22:17:17] serial: 127.0.0.1:16448
+[2026-05-08 22:17:17] flow attempt 1/3
+[2026-05-08 22:17:17] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:17:24] tap '+' attempt 1/4 at (261,929)
+[2026-05-08 22:17:29] tap '+' attempt 2/4 at (262,936)
+[2026-05-08 22:17:34] tap '+' attempt 3/4 at (260,930)
+[2026-05-08 22:17:39] tap '+' attempt 4/4 at (272,925)
+[2026-05-08 22:17:42] create screen opened
+[2026-05-08 22:17:44] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:17:45] tap 'Video' attempt 1/4 at (270,358)
+[2026-05-08 22:17:50] video tab tapped successfully
+[2026-05-08 22:18:03] tap first video attempt 1/4 at (90,479)
+[2026-05-08 22:18:22] tap 'Next' attempt 1/4
+[2026-05-08 22:18:24] post screen opened
+[2026-05-08 22:18:25] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 22:18:25] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 22:18:25.39 ====
+==== START Fri 05/08/2026 22:21:01.17 ====
+[2026-05-08 22:21:02] serial: 127.0.0.1:16448
+[2026-05-08 22:21:02] flow attempt 1/3
+[2026-05-08 22:21:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 22:21:06] tap '+' attempt 1/4 at (261,929)
+[2026-05-08 22:21:11] tap '+' attempt 2/4 at (266,924)
+[2026-05-08 22:21:14] create screen opened
+[2026-05-08 22:21:14] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 22:21:14] tap 'Video' attempt 1/4 at (275,349)
+[2026-05-08 22:21:16] video tab tapped successfully
+[2026-05-08 22:21:17] tap first video attempt 1/4 at (88,478)
+[2026-05-08 22:21:20] video selected
+[2026-05-08 22:21:21] tap 'Next' attempt 1/4
+[2026-05-08 22:21:25] post screen opened
+[2026-05-08 22:21:33] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 22:21:33] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 22:21:35.69 ====
+==== START Fri 05/08/2026 23:21:14.32 ====
+[2026-05-08 23:21:15] serial: 127.0.0.1:16448
+[2026-05-08 23:21:15] flow attempt 1/3
+[2026-05-08 23:21:15] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:21:18] tap '+' attempt 1/4 at (275,928)
+[2026-05-08 23:21:20] create screen opened
+[2026-05-08 23:21:21] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:21:21] tap 'Video' attempt 1/4 at (259,351)
+[2026-05-08 23:21:22] video tab tapped successfully
+[2026-05-08 23:21:23] tap first video attempt 1/4 at (92,473)
+[2026-05-08 23:21:26] video selected
+[2026-05-08 23:21:26] tap 'Next' attempt 1/4
+[2026-05-08 23:21:29] post screen opened
+[2026-05-08 23:21:30] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:21:30] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:21:30.41 ====
+==== START Fri 05/08/2026 23:27:01.33 ====
+[2026-05-08 23:27:02] serial: 127.0.0.1:16448
+[2026-05-08 23:27:02] flow attempt 1/3
+[2026-05-08 23:27:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:27:07] tap '+' attempt 1/4 at (268,933)
+[2026-05-08 23:27:10] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:27:14] tap '+' attempt 2/4 at (265,928)
+[2026-05-08 23:27:16] create screen opened
+[2026-05-08 23:27:16] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:27:16] tap 'Video' attempt 1/4 at (271,350)
+[2026-05-08 23:27:18] video tab tapped successfully
+[2026-05-08 23:27:19] tap first video attempt 1/4 at (92,480)
+[2026-05-08 23:27:21] video selected
+[2026-05-08 23:27:22] tap 'Next' attempt 1/4
+[2026-05-08 23:27:25] post screen opened
+[2026-05-08 23:27:25] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:27:25] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:27:25.76 ====
+==== START Fri 05/08/2026 23:30:00.49 ====
+[2026-05-08 23:30:01] serial: 127.0.0.1:16448
+[2026-05-08 23:30:01] flow attempt 1/3
+[2026-05-08 23:30:01] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:30:08] tap '+' attempt 1/4 at (271,925)
+[2026-05-08 23:30:11] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:30:15] tap '+' attempt 2/4 at (272,930)
+[2026-05-08 23:30:18] create screen opened
+[2026-05-08 23:30:18] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:30:18] tap 'Video' attempt 1/4 at (281,352)
+[2026-05-08 23:30:19] video tab tapped successfully
+[2026-05-08 23:30:20] tap first video attempt 1/4 at (86,480)
+[2026-05-08 23:30:23] video selected
+[2026-05-08 23:30:24] tap 'Next' attempt 1/4
+[2026-05-08 23:30:27] post screen opened
+[2026-05-08 23:30:27] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:30:27] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:30:27.97 ====
+==== START Fri 05/08/2026 23:32:19.27 ====
+[2026-05-08 23:32:20] serial: 127.0.0.1:16448
+[2026-05-08 23:32:20] flow attempt 1/3
+[2026-05-08 23:32:20] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:32:26] tap '+' attempt 1/4 at (272,927)
+[2026-05-08 23:32:27] create screen opened
+[2026-05-08 23:32:27] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:32:28] tap 'Video' attempt 1/4 at (266,354)
+[2026-05-08 23:32:29] video tab tapped successfully
+[2026-05-08 23:32:30] tap first video attempt 1/4 at (93,476)
+[2026-05-08 23:32:33] video selected
+[2026-05-08 23:32:34] tap 'Next' attempt 1/4
+[2026-05-08 23:32:36] post screen opened
+[2026-05-08 23:32:37] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:32:37] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:32:37.42 ====
+==== START Fri 05/08/2026 23:36:37.72 ====
+[2026-05-08 23:36:38] delay multiplier: 1.35
+[2026-05-08 23:36:38] serial: 127.0.0.1:16448
+[2026-05-08 23:36:38] flow attempt 1/3
+[2026-05-08 23:36:38] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:36:47] tap '+' attempt 1/4 at (264,930)
+[2026-05-08 23:36:53] gallery opened after '+', back and retry
+[2026-05-08 23:36:55] flow attempt 1 failed: Left TikTok while tapping '+': pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 23:36:58] flow attempt 2/3
+[2026-05-08 23:36:58] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:37:05] tap '+' attempt 1/4 at (271,929)
+[2026-05-08 23:37:09] create screen opened
+[2026-05-08 23:37:09] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:37:09] tap 'Video' attempt 1/4 at (273,343)
+[2026-05-08 23:37:12] video tab tapped successfully
+[2026-05-08 23:37:13] tap first video attempt 1/4 at (88,471)
+[2026-05-08 23:37:18] video selected
+[2026-05-08 23:37:19] tap 'Next' attempt 1/4
+[2026-05-08 23:37:23] post screen opened
+[2026-05-08 23:37:23] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:37:23] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:37:23.99 ====
+==== START Fri 05/08/2026 23:37:46.83 ====
+[2026-05-08 23:37:47] delay multiplier: 1.35
+[2026-05-08 23:37:49] serial: 127.0.0.1:16448
+[2026-05-08 23:37:49] flow attempt 1/3
+[2026-05-08 23:37:49] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:38:07] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:38:20] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 23:38:20] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:38:28] tap '+' attempt 2/4 at (275,927)
+[2026-05-08 23:38:31] create screen opened
+[2026-05-08 23:38:31] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:38:32] tap 'Video' attempt 1/4 at (277,354)
+[2026-05-08 23:38:34] video tab tapped successfully
+[2026-05-08 23:38:35] tap first video attempt 1/4 at (89,480)
+[2026-05-08 23:38:39] video selected
+[2026-05-08 23:38:40] tap 'Next' attempt 1/4
+[2026-05-08 23:38:45] post screen opened
+[2026-05-08 23:38:45] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:38:45] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:38:45.77 ====
+==== START Fri 05/08/2026 23:43:00.89 ====
+[2026-05-08 23:43:01] delay multiplier: 1.35
+[2026-05-08 23:43:02] serial: 127.0.0.1:16448
+[2026-05-08 23:43:02] flow attempt 1/3
+[2026-05-08 23:43:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:43:10] tap '+' attempt 1/4 at (270,931)
+[2026-05-08 23:43:16] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 23:43:16] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:43:27] tap '+' attempt 3/4 at (269,932)
+[2026-05-08 23:43:29] create screen opened
+[2026-05-08 23:43:30] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:43:30] tap 'Video' attempt 1/4 at (269,348)
+[2026-05-08 23:43:32] video tab tapped successfully
+[2026-05-08 23:43:33] tap first video attempt 1/4 at (85,480)
+[2026-05-08 23:43:37] video selected
+[2026-05-08 23:43:37] tap 'Next' attempt 1/4
+[2026-05-08 23:43:42] post screen opened
+[2026-05-08 23:43:43] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:43:43] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:43:43.29 ====
+==== START Fri 05/08/2026 23:44:45.37 ====
+[2026-05-08 23:44:45] delay multiplier: 1.35
+[2026-05-08 23:44:47] serial: 127.0.0.1:16448
+[2026-05-08 23:44:47] flow attempt 1/3
+[2026-05-08 23:44:47] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:45:01] tap '+' attempt 1/4 at (266,921)
+[2026-05-08 23:45:06] gallery opened after '+', back and retry
+[2026-05-08 23:45:09] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:45:23] tap '+' attempt 2/4 at (266,923)
+[2026-05-08 23:45:26] create screen opened
+[2026-05-08 23:45:27] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:45:27] tap 'Video' attempt 1/4 at (261,345)
+[2026-05-08 23:45:30] video tab tapped successfully
+[2026-05-08 23:45:31] tap first video attempt 1/4 at (88,469)
+[2026-05-08 23:45:35] video selected
+[2026-05-08 23:45:36] tap 'Next' attempt 1/4
+[2026-05-08 23:45:40] post screen opened
+[2026-05-08 23:45:40] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:45:40] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:45:40.72 ====
+==== START Fri 05/08/2026 23:49:00.66 ====
+[2026-05-08 23:49:00] delay multiplier: 1.35
+[2026-05-08 23:49:01] serial: 127.0.0.1:16448
+[2026-05-08 23:49:01] flow attempt 1/3
+[2026-05-08 23:49:01] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:49:14] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 23:49:14] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:49:22] tap '+' attempt 2/4 at (276,925)
+[2026-05-08 23:49:25] create screen opened
+[2026-05-08 23:49:25] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:49:26] tap 'Video' attempt 1/4 at (277,357)
+[2026-05-08 23:49:28] video tab tapped successfully
+[2026-05-08 23:49:29] tap first video attempt 1/4 at (87,478)
+[2026-05-08 23:49:33] video selected
+[2026-05-08 23:49:34] tap 'Next' attempt 1/4
+[2026-05-08 23:49:39] post screen opened
+[2026-05-08 23:49:39] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:49:39] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:49:40.05 ====
+==== START Fri 05/08/2026 23:52:01.12 ====
+[2026-05-08 23:52:01] delay multiplier: 1.35
+[2026-05-08 23:52:02] serial: 127.0.0.1:16448
+[2026-05-08 23:52:02] flow attempt 1/3
+[2026-05-08 23:52:02] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:52:11] tap '+' attempt 1/4 at (275,918)
+[2026-05-08 23:52:16] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-08 23:52:16] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:52:25] tap '+' attempt 3/4 at (276,925)
+[2026-05-08 23:52:29] create screen opened
+[2026-05-08 23:52:29] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:52:29] tap 'Video' attempt 1/4 at (276,344)
+[2026-05-08 23:52:32] video tab tapped successfully
+[2026-05-08 23:52:32] tap first video attempt 1/4 at (91,469)
+[2026-05-08 23:52:36] video selected
+[2026-05-08 23:52:37] tap 'Next' attempt 1/4
+[2026-05-08 23:52:41] post screen opened
+[2026-05-08 23:52:41] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:52:41] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:52:41.83 ====
+==== START Fri 05/08/2026 23:56:58.46 ====
+[2026-05-08 23:56:58] delay multiplier: 1.35
+[2026-05-08 23:57:00] serial: 127.0.0.1:16448
+[2026-05-08 23:57:00] flow attempt 1/3
+[2026-05-08 23:57:00] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:57:28] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:57:40] tap '+' attempt 1/4 at (270,919)
+[2026-05-08 23:57:44] create screen opened
+[2026-05-08 23:57:44] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:57:44] tap 'Video' attempt 1/4 at (276,348)
+[2026-05-08 23:57:47] video tab tapped successfully
+[2026-05-08 23:57:48] tap first video attempt 1/4 at (88,479)
+[2026-05-08 23:58:03] tap first video hard fallback at (90,470)
+[2026-05-08 23:58:08] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-08 23:58:11] flow attempt 2/3
+[2026-05-08 23:58:11] open app: com.zhiliaoapp.musically.go
+[2026-05-08 23:58:26] tap '+' attempt 1/4 at (265,919)
+[2026-05-08 23:58:36] tap '+' attempt 2/4 at (269,915)
+[2026-05-08 23:58:40] create screen opened
+[2026-05-08 23:58:40] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-08 23:58:40] tap 'Video' attempt 1/4 at (278,358)
+[2026-05-08 23:58:42] video tab tapped successfully
+[2026-05-08 23:58:43] tap first video attempt 1/4 at (92,472)
+[2026-05-08 23:58:47] video selected
+[2026-05-08 23:58:48] tap 'Next' attempt 1/4
+[2026-05-08 23:58:53] post screen opened
+[2026-05-08 23:58:53] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-08 23:58:53] TT-G2.1 completed
+EXIT_CODE=0
+==== END Fri 05/08/2026 23:58:53.81 ====
+==== START Sat 05/09/2026  0:03:00.73 ====
+[2026-05-09 00:03:01] delay multiplier: 1.35
+[2026-05-09 00:03:02] serial: 127.0.0.1:16448
+[2026-05-09 00:03:02] flow attempt 1/3
+[2026-05-09 00:03:02] open app: com.zhiliaoapp.musically.go
+[2026-05-09 00:03:10] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 00:03:10] open app: com.zhiliaoapp.musically.go
+[2026-05-09 00:03:19] tap '+' attempt 2/4 at (273,920)
+[2026-05-09 00:03:22] create screen opened
+[2026-05-09 00:03:23] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 00:03:23] tap 'Video' attempt 1/4 at (276,347)
+[2026-05-09 00:03:25] video tab tapped successfully
+[2026-05-09 00:03:26] tap first video attempt 1/4 at (93,480)
+[2026-05-09 00:03:30] video selected
+[2026-05-09 00:03:31] tap 'Next' attempt 1/4
+[2026-05-09 00:03:35] post screen opened
+[2026-05-09 00:03:35] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 00:03:35] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026  0:03:35.97 ====
+==== START Sat 05/09/2026  9:36:00.74 ====
+[2026-05-09 09:36:01] delay multiplier: 1.35
+[2026-05-09 09:36:02] serial: 127.0.0.1:16448
+[2026-05-09 09:36:02] flow attempt 1/3
+[2026-05-09 09:36:02] open app: com.zhiliaoapp.musically.go
+[2026-05-09 09:36:14] tap '+' attempt 1/4 at (274,919)
+[2026-05-09 09:36:18] create screen opened
+[2026-05-09 09:36:18] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 09:36:18] tap 'Video' attempt 1/4 at (274,356)
+[2026-05-09 09:36:21] video tab tapped successfully
+[2026-05-09 09:36:22] tap first video attempt 1/4 at (93,479)
+[2026-05-09 09:36:26] video selected
+[2026-05-09 09:36:27] tap 'Next' attempt 1/4
+[2026-05-09 09:36:32] post screen opened
+[2026-05-09 09:36:33] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 09:36:33] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026  9:36:33.51 ====
+==== START Sat 05/09/2026 10:17:33.40 ====
+[2026-05-09 10:17:33] delay multiplier: 1.35
+[2026-05-09 10:17:34] serial: 127.0.0.1:16448
+[2026-05-09 10:17:34] flow attempt 1/3
+[2026-05-09 10:17:34] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:17:45] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:17:45] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:17:56] tap '+' attempt 2/4 at (273,916)
+[2026-05-09 10:17:59] create screen opened
+[2026-05-09 10:17:59] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:17:59] tap 'Video' attempt 1/4 at (265,351)
+[2026-05-09 10:18:02] video tab tapped successfully
+[2026-05-09 10:18:02] first video hint not detected; caption picker may fallback to DEFAULT
+[2026-05-09 10:18:03] tap first video attempt 1/4 at (87,471)
+[2026-05-09 10:18:07] video selected
+[2026-05-09 10:18:08] tap 'Next' attempt 1/4
+[2026-05-09 10:18:12] post screen opened
+[2026-05-09 10:18:12] caption picked: code=DEFAULT id=aff882f61b33b320 len=75
+[2026-05-09 10:18:15] caption filled successfully on attempt 1/4
+[2026-05-09 10:18:16] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:18:16] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:18:16.65 ====
+==== START Sat 05/09/2026 10:19:57.33 ====
+[2026-05-09 10:19:57] delay multiplier: 1.35
+[2026-05-09 10:19:58] serial: 127.0.0.1:16448
+[2026-05-09 10:19:58] flow attempt 1/3
+[2026-05-09 10:19:58] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:20:26] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:20:35] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:20:35] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:20:46] tap '+' attempt 2/4 at (270,917)
+[2026-05-09 10:20:49] create screen opened
+[2026-05-09 10:20:49] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:20:49] tap 'Video' attempt 1/4 at (273,357)
+[2026-05-09 10:20:52] video tab tapped successfully
+[2026-05-09 10:20:52] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:20:53] tap first video attempt 1/4 at (87,472)
+[2026-05-09 10:20:57] video selected
+[2026-05-09 10:20:57] tap 'Next' attempt 1/4
+[2026-05-09 10:21:01] post screen opened
+[2026-05-09 10:21:01] caption picked: code=BCR id=93a6f2934a254e6e len=73
+[2026-05-09 10:21:04] caption filled successfully on attempt 1/4
+[2026-05-09 10:21:05] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:21:05] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:21:05.69 ====
+==== START Sat 05/09/2026 10:25:01.00 ====
+[2026-05-09 10:25:01] delay multiplier: 1.35
+[2026-05-09 10:25:02] serial: 127.0.0.1:16448
+[2026-05-09 10:25:02] flow attempt 1/3
+[2026-05-09 10:25:02] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:25:14] tap '+' attempt 1/4 at (271,915)
+[2026-05-09 10:25:17] create screen opened
+[2026-05-09 10:25:18] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:25:18] tap 'Video' attempt 1/4 at (274,351)
+[2026-05-09 10:25:20] video tab tapped successfully
+[2026-05-09 10:25:20] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:25:21] tap first video attempt 1/4 at (88,475)
+[2026-05-09 10:25:34] tap first video hard fallback at (90,470)
+[2026-05-09 10:25:38] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-09 10:25:40] flow attempt 2/3
+[2026-05-09 10:25:40] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:25:52] tap '+' attempt 1/4 at (266,919)
+[2026-05-09 10:25:55] create screen opened
+[2026-05-09 10:25:56] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:25:56] tap 'Video' attempt 1/4 at (281,351)
+[2026-05-09 10:25:58] video tab tapped successfully
+[2026-05-09 10:25:59] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:26:00] tap first video attempt 1/4 at (85,469)
+[2026-05-09 10:26:16] tap first video hard fallback at (90,470)
+[2026-05-09 10:26:21] flow attempt 2 failed: Cannot open video edit screen from picker
+[2026-05-09 10:26:23] flow attempt 3/3
+[2026-05-09 10:26:23] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:26:38] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:26:49] tap '+' attempt 1/4 at (275,917)
+[2026-05-09 10:26:52] create screen opened
+[2026-05-09 10:26:52] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:26:52] tap 'Video' attempt 1/4 at (262,356)
+[2026-05-09 10:26:55] video tab tapped successfully
+[2026-05-09 10:26:55] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:26:56] tap first video attempt 1/4 at (85,477)
+[2026-05-09 10:27:00] video selected
+[2026-05-09 10:27:01] tap 'Next' attempt 1/4
+[2026-05-09 10:27:06] post screen opened
+[2026-05-09 10:27:06] caption picked: code=BCR id=1e5e81e6510f4ddd len=75
+[2026-05-09 10:27:09] caption filled successfully on attempt 1/4
+[2026-05-09 10:27:10] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:27:10] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:27:10.29 ====
+==== START Sat 05/09/2026 10:29:48.78 ====
+[2026-05-09 10:29:49] delay multiplier: 1.35
+[2026-05-09 10:29:50] serial: 127.0.0.1:16448
+[2026-05-09 10:29:50] flow attempt 1/3
+[2026-05-09 10:29:50] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:30:18] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:30:32] flow attempt 1 failed: Cannot reach TikTok home before flow: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:30:34] flow attempt 2/3
+[2026-05-09 10:30:34] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:30:46] tap '+' attempt 1/4 at (270,920)
+[2026-05-09 10:30:50] create screen opened
+[2026-05-09 10:30:50] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:30:50] tap 'Video' attempt 1/4 at (261,343)
+[2026-05-09 10:30:53] video tab tapped successfully
+[2026-05-09 10:30:53] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:30:58] video selected by selector click
+[2026-05-09 10:30:59] tap 'Next' attempt 1/4
+[2026-05-09 10:31:04] post screen opened
+[2026-05-09 10:31:04] caption picked: code=BCR id=c26a0b0f996c5d51 len=86
+[2026-05-09 10:31:07] caption filled successfully on attempt 1/4
+[2026-05-09 10:31:08] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:31:08] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:31:08.47 ====
+==== START Sat 05/09/2026 10:31:26.41 ====
+[2026-05-09 10:31:27] delay multiplier: 1.35
+[2026-05-09 10:31:28] serial: 127.0.0.1:16448
+[2026-05-09 10:31:28] flow attempt 1/3
+[2026-05-09 10:31:28] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:31:58] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:32:11] flow attempt 1 failed: Cannot reach TikTok home before flow: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:32:14] flow attempt 2/3
+[2026-05-09 10:32:14] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:32:29] tap '+' attempt 1/4 at (266,919)
+[2026-05-09 10:32:32] create screen opened
+[2026-05-09 10:32:33] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:32:33] tap 'Video' attempt 1/4 at (276,351)
+[2026-05-09 10:32:35] video tab tapped successfully
+[2026-05-09 10:32:35] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:32:40] video selected by selector click
+[2026-05-09 10:32:41] tap 'Next' attempt 1/4
+[2026-05-09 10:32:46] post screen opened
+[2026-05-09 10:32:46] caption picked: code=BCR id=2c65b6cf39211254 len=69
+[2026-05-09 10:32:50] caption filled successfully on attempt 1/4
+[2026-05-09 10:32:50] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:32:50] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:32:50.84 ====
+==== START Sat 05/09/2026 10:33:30.43 ====
+[2026-05-09 10:33:31] delay multiplier: 1.35
+[2026-05-09 10:33:32] serial: 127.0.0.1:16448
+[2026-05-09 10:33:32] flow attempt 1/3
+[2026-05-09 10:33:32] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:33:59] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:34:09] home recovery success after relaunch 1/3
+[2026-05-09 10:34:09] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:34:09] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:34:21] tap '+' attempt 2/4 at (274,916)
+[2026-05-09 10:34:25] create screen opened
+[2026-05-09 10:34:25] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:34:25] tap 'Video' attempt 1/4 at (274,349)
+[2026-05-09 10:34:28] video tab tapped successfully
+[2026-05-09 10:34:28] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:34:33] video selected by selector click
+[2026-05-09 10:34:33] tap 'Next' attempt 1/4
+[2026-05-09 10:34:37] post screen opened
+[2026-05-09 10:34:37] caption picked: code=BCR id=35443df892f6d86c len=79
+[2026-05-09 10:34:41] caption filled successfully on attempt 1/4
+[2026-05-09 10:34:41] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:34:41] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:34:41.78 ====
+==== START Sat 05/09/2026 10:40:00.65 ====
+[2026-05-09 10:40:01] delay multiplier: 1.35
+[2026-05-09 10:40:02] serial: 127.0.0.1:16448
+[2026-05-09 10:40:02] flow attempt 1/3
+[2026-05-09 10:40:02] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:40:17] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:40:28] tap '+' attempt 1/4 at (272,914)
+[2026-05-09 10:40:34] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:40:34] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:40:46] home not stable before '+' tap, re-sync to home
+[2026-05-09 10:40:46] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:40:57] tap '+' attempt 3/4 at (274,920)
+[2026-05-09 10:41:02] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-09 10:41:02] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:41:10] flow attempt 1 failed: Cannot open create screen from '+' button
+[2026-05-09 10:41:12] flow attempt 2/3
+[2026-05-09 10:41:12] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:41:25] tap '+' attempt 1/4 at (266,914)
+[2026-05-09 10:41:28] create screen opened
+[2026-05-09 10:41:28] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:41:28] tap 'Video' attempt 1/4 at (263,348)
+[2026-05-09 10:41:31] video tab tapped successfully
+[2026-05-09 10:41:31] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:41:35] video selected by selector click
+[2026-05-09 10:41:36] tap 'Next' attempt 1/4
+[2026-05-09 10:41:41] post screen opened
+[2026-05-09 10:41:41] caption picked: code=BCR id=1e5e81e6510f4ddd len=75
+[2026-05-09 10:41:44] caption filled successfully on attempt 1/4
+[2026-05-09 10:41:45] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:41:45] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:41:45.35 ====
+==== START Sat 05/09/2026 10:43:00.77 ====
+[2026-05-09 10:43:01] delay multiplier: 1.35
+[2026-05-09 10:43:02] serial: 127.0.0.1:16448
+[2026-05-09 10:43:02] flow attempt 1/3
+[2026-05-09 10:43:02] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:43:15] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:43:26] tap '+' attempt 1/4 at (271,916)
+[2026-05-09 10:43:29] create screen opened
+[2026-05-09 10:43:30] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:43:30] tap 'Video' attempt 1/4 at (258,344)
+[2026-05-09 10:43:32] video tab tapped successfully
+[2026-05-09 10:43:33] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:43:37] video selected by selector click
+[2026-05-09 10:43:37] tap 'Next' attempt 1/4
+[2026-05-09 10:43:42] post screen opened
+[2026-05-09 10:43:42] caption picked: code=BCR id=93a6f2934a254e6e len=82
+[2026-05-09 10:43:46] caption filled successfully on attempt 1/4
+[2026-05-09 10:43:47] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:43:47] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:43:47.24 ====
+==== START Sat 05/09/2026 10:47:06.87 ====
+[2026-05-09 10:47:07] delay multiplier: 1.35
+[2026-05-09 10:47:08] serial: 127.0.0.1:16448
+[2026-05-09 10:47:08] flow attempt 1/3
+[2026-05-09 10:47:08] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:47:18] tap '+' attempt 1/4 at (276,920)
+[2026-05-09 10:47:21] create screen opened
+[2026-05-09 10:47:21] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:47:21] tap 'Video' attempt 1/4 at (279,350)
+[2026-05-09 10:47:24] video tab tapped successfully
+[2026-05-09 10:47:24] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:47:29] video selected by selector click
+[2026-05-09 10:47:29] tap 'Next' attempt 1/4
+[2026-05-09 10:47:34] flow attempt 1 failed: Returned to TikTok home after tapping Next
+[2026-05-09 10:47:37] flow attempt 2/3
+[2026-05-09 10:47:37] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:47:47] tap '+' attempt 1/4 at (274,916)
+[2026-05-09 10:47:51] create screen opened
+[2026-05-09 10:47:51] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:47:51] tap 'Video' attempt 1/4 at (269,343)
+[2026-05-09 10:47:53] video tab tapped successfully
+[2026-05-09 10:47:54] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:48:05] tap first video attempt 1/4 at (86,477)
+[2026-05-09 10:48:24] tap first video hard fallback at (90,470)
+[2026-05-09 10:48:29] flow attempt 2 failed: Cannot open video edit screen from picker
+[2026-05-09 10:48:31] flow attempt 3/3
+[2026-05-09 10:48:31] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:48:44] open app: com.zhiliaoapp.musically.go
+[2026-05-09 10:48:56] tap '+' attempt 1/4 at (275,920)
+[2026-05-09 10:48:58] create screen opened
+[2026-05-09 10:48:59] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-09 10:48:59] tap 'Video' attempt 1/4 at (271,354)
+[2026-05-09 10:49:01] video tab tapped successfully
+[2026-05-09 10:49:01] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-09 10:49:05] video selected by selector click
+[2026-05-09 10:49:06] tap 'Next' attempt 1/4
+[2026-05-09 10:49:11] post screen opened
+[2026-05-09 10:49:11] caption picked: code=BCR id=2c65b6cf39211254 len=69
+[2026-05-09 10:49:14] caption filled successfully on attempt 1/4
+[2026-05-09 10:49:15] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-09 10:49:15] TT-G2.1 completed
+EXIT_CODE=0
+==== END Sat 05/09/2026 10:49:15.25 ====
+==== START Mon 05/11/2026 20:21:03.84 ====
+[2026-05-11 20:21:04] delay multiplier: 1.35
+[2026-05-11 20:21:05] serial: 127.0.0.1:16448
+[2026-05-11 20:21:05] flow attempt 1/3
+[2026-05-11 20:21:05] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:21:16] tap '+' attempt 1/4 at (267,917)
+[2026-05-11 20:21:18] create screen opened
+[2026-05-11 20:21:19] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:21:19] tap 'Video' attempt 1/4 at (257,358)
+[2026-05-11 20:21:22] video tab tapped successfully
+[2026-05-11 20:21:22] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:21:27] tap first video attempt 1/4 at (93,479)
+[2026-05-11 20:21:44] tap first video hard fallback at (90,470)
+[2026-05-11 20:21:48] flow attempt 1 failed: Cannot open video edit screen from picker
+[2026-05-11 20:21:51] flow attempt 2/3
+[2026-05-11 20:21:51] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:22:03] tap '+' attempt 1/4 at (273,919)
+[2026-05-11 20:22:06] create screen opened
+[2026-05-11 20:22:07] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:22:07] tap 'Video' fallback attempt 1/4 at (265,349)
+[2026-05-11 20:22:13] video-tab check attempt 2/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-11 20:22:13] tap 'Video' fallback attempt 2/4 at (266,352)
+[2026-05-11 20:22:15] video-tab check attempt 3/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-11 20:22:16] tap 'Video' fallback attempt 3/4 at (263,354)
+[2026-05-11 20:22:18] video-tab check attempt 4/4: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-11 20:22:19] tap 'Video' fallback attempt 4/4 at (262,352)
+[2026-05-11 20:22:21] flow attempt 2 failed: Cannot find/tap 'Video' tab: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-11 20:22:24] flow attempt 3/3
+[2026-05-11 20:22:24] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:22:33] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 20:22:33] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:22:45] tap '+' attempt 2/4 at (266,920)
+[2026-05-11 20:22:48] create screen opened
+[2026-05-11 20:22:48] video-tab check attempt 1/4: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:22:48] tap 'Video' attempt 1/4 at (278,349)
+[2026-05-11 20:22:51] video tab tapped successfully
+[2026-05-11 20:22:51] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:22:55] video selected by selector click
+[2026-05-11 20:22:56] tap 'Next' attempt 1/4
+[2026-05-11 20:23:01] post screen opened
+[2026-05-11 20:23:01] caption picked: code=BCR id=c26a0b0f996c5d51 len=86
+[2026-05-11 20:23:04] caption filled successfully on attempt 1/4
+[2026-05-11 20:23:05] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 20:23:05] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 20:23:05.68 ====
+==== START Mon 05/11/2026 20:28:40.83 ====
+[2026-05-11 20:28:41] delay multiplier: 1.55
+[2026-05-11 20:28:42] serial: 127.0.0.1:16448
+[2026-05-11 20:28:42] flow attempt 1/4
+[2026-05-11 20:28:42] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:29:21] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:29:36] home recovery success after relaunch 1/3
+[2026-05-11 20:29:53] tap '+' attempt 1/4 at (264,916)
+[2026-05-11 20:30:00] gallery opened after '+', back and retry
+[2026-05-11 20:30:03] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:30:16] tap '+' attempt 2/4 at (267,915)
+[2026-05-11 20:30:20] create screen opened
+[2026-05-11 20:30:20] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:30:21] video picker already ready
+[2026-05-11 20:30:21] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:30:27] video selected by selector click
+[2026-05-11 20:30:29] tap 'Next' attempt 1/5
+[2026-05-11 20:30:36] post screen opened
+[2026-05-11 20:30:36] caption picked: code=BCR id=93a6f2934a254e6e len=82
+[2026-05-11 20:31:00] flow attempt 1 failed: cannot fill caption text on post screen
+[2026-05-11 20:31:02] flow attempt 2/4
+[2026-05-11 20:31:02] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:31:15] tap '+' attempt 1/4 at (268,918)
+[2026-05-11 20:31:18] create screen opened
+[2026-05-11 20:31:21] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=.mini.MainActivity
+[2026-05-11 20:31:21] dropped to TikTok home while opening 'Video'; reopen create and retry
+[2026-05-11 20:31:25] tap '+' attempt 1/3 at (265,915)
+[2026-05-11 20:31:28] create screen opened
+[2026-05-11 20:31:30] video-tab check attempt 2/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:31:30] video picker already ready
+[2026-05-11 20:31:31] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:31:37] video selected by selector click
+[2026-05-11 20:31:39] tap 'Next' attempt 1/5
+[2026-05-11 20:31:44] post screen opened
+[2026-05-11 20:31:44] caption picked: code=BCR id=35443df892f6d86c len=81
+[2026-05-11 20:32:02] flow attempt 2 failed: cannot fill caption text on post screen
+[2026-05-11 20:32:04] flow attempt 3/4
+[2026-05-11 20:32:04] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:32:15] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 20:32:15] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:32:29] tap '+' attempt 2/4 at (274,918)
+[2026-05-11 20:32:33] create screen opened
+[2026-05-11 20:32:33] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:32:34] video picker already ready
+[2026-05-11 20:32:34] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:32:41] video selected by selector click
+[2026-05-11 20:32:44] tap 'Next' attempt 1/5
+[2026-05-11 20:32:49] post screen opened
+[2026-05-11 20:32:49] caption picked: code=BCR id=1e5e81e6510f4ddd len=75
+[2026-05-11 20:33:04] flow attempt 3 failed: cannot fill caption text on post screen
+[2026-05-11 20:33:06] flow attempt 4/4
+[2026-05-11 20:33:06] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:33:21] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:33:40] tap '+' attempt 1/4 at (274,914)
+[2026-05-11 20:33:49] create screen opened
+[2026-05-11 20:33:51] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:33:51] video picker already ready
+[2026-05-11 20:33:52] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:34:00] video selected by selector click
+[2026-05-11 20:34:03] flow attempt 4 failed: device offline
+[2026-05-11 20:34:03] FAILED: device offline
+EXIT_CODE=1
+==== END Mon 05/11/2026 20:34:04.64 ====
+==== START Mon 05/11/2026 20:35:16.28 ====
+[2026-05-11 20:35:17] delay multiplier: 1.55
+[2026-05-11 20:35:19] serial: 127.0.0.1:16448
+[2026-05-11 20:35:19] flow attempt 1/4
+[2026-05-11 20:35:19] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:35:35] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:35:52] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 20:35:52] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:36:25] home not stable before '+' tap, re-sync to home
+[2026-05-11 20:36:25] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:36:36] tap '+' attempt 2/4 at (276,918)
+[2026-05-11 20:36:40] create screen opened
+[2026-05-11 20:36:40] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:36:41] video picker already ready
+[2026-05-11 20:36:41] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:36:48] video selected by selector click
+[2026-05-11 20:36:51] tap 'Next' attempt 1/5
+[2026-05-11 20:36:55] post screen opened
+[2026-05-11 20:36:55] caption picked: code=BCR id=2c65b6cf39211254 len=84
+[2026-05-11 20:37:10] caption fill warning (non-fatal): cannot fill caption text on post screen
+[2026-05-11 20:37:10] flow attempt 1 failed: Flow ended without post screen
+[2026-05-11 20:37:13] flow attempt 2/4
+[2026-05-11 20:37:13] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:37:24] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 20:37:24] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:37:36] tap '+' attempt 2/4 at (274,914)
+[2026-05-11 20:37:39] create screen opened
+[2026-05-11 20:37:40] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:37:40] video picker already ready
+[2026-05-11 20:37:40] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:37:48] video selected by selector click
+[2026-05-11 20:37:50] tap 'Next' attempt 1/5
+[2026-05-11 20:37:56] post screen opened
+[2026-05-11 20:37:56] caption picked: code=BCR id=c26a0b0f996c5d51 len=77
+[2026-05-11 20:38:10] caption fill warning (non-fatal): cannot fill caption text on post screen
+[2026-05-11 20:38:11] flow attempt 2 failed: Flow ended without post screen
+[2026-05-11 20:38:14] flow attempt 3/4
+[2026-05-11 20:38:14] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:38:46] tap '+' attempt 1/4 at (264,915)
+[2026-05-11 20:39:03] tap '+' attempt 2/4 at (268,916)
+[2026-05-11 20:39:07] create screen opened
+[2026-05-11 20:39:07] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:39:08] video picker already ready
+[2026-05-11 20:39:08] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:39:12] already at post screen
+[2026-05-11 20:39:13] caption picked: code=BCR id=93a6f2934a254e6e len=71
+[2026-05-11 20:39:13] caption field not found, tap fallback area attempt 1/4 at (270,211)
+[2026-05-11 20:39:16] caption field not found, tap fallback area attempt 2/4 at (270,211)
+[2026-05-11 20:39:19] caption field not found, tap fallback area attempt 3/4 at (270,211)
+[2026-05-11 20:39:21] caption field not found, tap fallback area attempt 4/4 at (270,211)
+[2026-05-11 20:39:23] caption fill warning (non-fatal): cannot fill caption text on post screen
+[2026-05-11 20:39:23] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 20:39:23] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 20:39:24.06 ====
+==== START Mon 05/11/2026 20:40:13.24 ====
+[2026-05-11 20:40:13] delay multiplier: 1.55
+[2026-05-11 20:40:14] serial: 127.0.0.1:16448
+[2026-05-11 20:40:14] flow attempt 1/4
+[2026-05-11 20:40:14] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:40:44] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:40:52] home recovery success after relaunch 1/3
+[2026-05-11 20:40:54] tap '+' attempt 1/4 at (271,914)
+[2026-05-11 20:40:58] create screen opened
+[2026-05-11 20:40:59] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:40:59] video picker already ready
+[2026-05-11 20:40:59] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:42:35] tap first video attempt 1/5 at (90,475)
+[2026-05-11 20:43:34] dropped to TikTok home while selecting video; reopen create flow
+[2026-05-11 20:43:34] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:43:47] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:43:59] tap '+' attempt 1/3 at (267,914)
+[2026-05-11 20:44:03] create screen opened
+[2026-05-11 20:44:04] video-tab check attempt 1/3: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:44:04] video picker already ready
+[2026-05-11 20:44:12] video selected by selector click
+[2026-05-11 20:44:15] tap 'Next' attempt 1/5
+[2026-05-11 20:44:20] post screen opened
+[2026-05-11 20:44:20] caption picked: code=BCR id=1e5e81e6510f4ddd len=60
+[2026-05-11 20:44:46] caption fill warning (non-fatal): cannot fill caption text on post screen
+[2026-05-11 20:44:47] flow attempt 1 failed: Flow ended without post screen
+[2026-05-11 20:44:49] flow attempt 2/4
+[2026-05-11 20:44:49] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:45:06] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:45:19] tap '+' attempt 1/4 at (271,919)
+[2026-05-11 20:45:23] create screen opened
+[2026-05-11 20:45:23] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:45:23] video picker already ready
+[2026-05-11 20:45:24] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:45:30] video selected by selector click
+[2026-05-11 20:45:33] tap 'Next' attempt 1/5
+[2026-05-11 20:45:38] post screen opened
+[2026-05-11 20:45:38] caption picked: code=BCR id=35443df892f6d86c len=81
+[2026-05-11 20:45:59] caption fill warning (non-fatal): cannot fill caption text on post screen
+[2026-05-11 20:46:00] flow attempt 2 failed: Flow ended without post screen
+[2026-05-11 20:46:02] flow attempt 3/4
+[2026-05-11 20:46:02] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:46:14] home not stable before '+' tap, re-sync to home
+[2026-05-11 20:46:14] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:46:26] tap '+' attempt 1/4 at (264,920)
+[2026-05-11 20:46:29] create screen opened
+[2026-05-11 20:46:29] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:46:30] video picker already ready
+[2026-05-11 20:46:30] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:46:36] video selected by selector click
+[2026-05-11 20:46:39] edit screen not stable before tapping 'Next'; retrying step
+==== START Mon 05/11/2026 20:50:00.56 ====
+[2026-05-11 20:50:00] delay multiplier: 1.55
+[2026-05-11 20:50:01] serial: 127.0.0.1:16448
+[2026-05-11 20:50:01] flow attempt 1/4
+[2026-05-11 20:50:01] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:50:12] tap '+' attempt 1/4 at (266,916)
+[2026-05-11 20:50:15] create screen opened
+[2026-05-11 20:50:16] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:50:16] video picker already ready on 'Video' tab
+[2026-05-11 20:50:16] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:50:30] tap first video attempt 1/5 at (89,474)
+[2026-05-11 20:50:39] dropped to TikTok home while selecting video; reopen create flow
+[2026-05-11 20:50:39] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:50:49] tap '+' attempt 1/3 at (267,928)
+[2026-05-11 20:50:56] tap '+' attempt 2/3 at (269,932)
+[2026-05-11 20:51:04] tap '+' attempt 3/3 at (272,929)
+[2026-05-11 20:51:10] flow attempt 1 failed: Cannot open create screen from '+' button
+[2026-05-11 20:51:13] flow attempt 2/4
+[2026-05-11 20:51:13] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:51:27] tap '+' attempt 1/4 at (273,916)
+[2026-05-11 20:51:36] create screen opened
+[2026-05-11 20:51:48] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:53:18] tap 'Video' fallback attempt 1/5 at (264,350)
+[2026-05-11 20:54:20] video-tab check attempt 2/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:54:20] tap 'Video' fallback attempt 2/5 at (269,348)
+[2026-05-11 20:54:33] video-tab check attempt 3/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:54:33] tap 'Video' fallback attempt 3/5 at (271,350)
+[2026-05-11 20:54:46] video-tab check attempt 4/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:54:46] tap 'Video' fallback attempt 4/5 at (266,352)
+[2026-05-11 20:54:59] video-tab check attempt 5/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:54:59] tap 'Video' fallback attempt 5/5 at (267,355)
+[2026-05-11 20:55:07] flow attempt 2 failed: Cannot find/tap 'Video' tab: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:55:10] flow attempt 3/4
+[2026-05-11 20:55:10] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:55:25] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:55:45] home not stable before '+' tap, re-sync to home
+[2026-05-11 20:55:45] open app: com.zhiliaoapp.musically.go
+[2026-05-11 20:55:58] tap '+' attempt 1/4 at (268,918)
+[2026-05-11 20:56:02] create screen opened
+[2026-05-11 20:56:02] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 20:56:02] video picker already ready on 'Video' tab
+[2026-05-11 20:56:03] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 20:56:09] video selected by selector click
+[2026-05-11 20:56:12] tap 'Next' attempt 1/5
+[2026-05-11 20:56:17] post screen opened
+[2026-05-11 20:56:17] caption picked: code=BCR id=35443df892f6d86c len=79
+[2026-05-11 20:56:20] caption filled successfully on attempt 1/4
+[2026-05-11 20:56:21] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 20:56:21] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 20:56:21.20 ====
+==== START Mon 05/11/2026 21:07:00.63 ====
+[2026-05-11 21:07:01] delay multiplier: 1.55
+[2026-05-11 21:07:01] serial: 127.0.0.1:16448
+[2026-05-11 21:07:01] flow attempt 1/4
+[2026-05-11 21:07:01] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:07:13] home not stable before '+' tap, re-sync to home
+[2026-05-11 21:07:13] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:07:24] tap '+' attempt 1/4 at (265,918)
+[2026-05-11 21:07:28] create screen opened
+[2026-05-11 21:07:28] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:07:29] tap 'Video' attempt 1/5 at (274,352)
+[2026-05-11 21:07:31] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:07:32] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:07:38] video selected by selector click
+[2026-05-11 21:07:41] tap 'Next' attempt 1/5
+[2026-05-11 21:07:47] post screen opened
+[2026-05-11 21:07:47] caption picked: code=BCR id=2c65b6cf39211254 len=73
+[2026-05-11 21:07:51] caption filled successfully on attempt 1/4
+[2026-05-11 21:07:51] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:07:51] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:07:51.98 ====
+==== START Mon 05/11/2026 21:10:00.59 ====
+[2026-05-11 21:10:00] delay multiplier: 1.55
+[2026-05-11 21:10:02] serial: 127.0.0.1:16448
+[2026-05-11 21:10:02] flow attempt 1/4
+[2026-05-11 21:10:02] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:10:13] tap '+' attempt 1/4 at (269,914)
+[2026-05-11 21:10:17] create screen opened
+[2026-05-11 21:10:17] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:10:17] tap 'Video' attempt 1/5 at (276,352)
+[2026-05-11 21:10:20] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:10:20] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:10:25] tap first video attempt 1/5 at (85,471)
+[2026-05-11 21:10:37] dropped to TikTok home while selecting video; reopen create flow
+[2026-05-11 21:10:37] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:10:49] tap '+' attempt 1/3 at (274,918)
+[2026-05-11 21:10:52] create screen opened
+[2026-05-11 21:10:53] video-tab check attempt 1/3: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:10:53] tap 'Video' attempt 1/3 at (275,349)
+[2026-05-11 21:10:56] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:11:03] video selected by selector click
+[2026-05-11 21:11:05] tap 'Next' attempt 1/5
+[2026-05-11 21:11:11] post screen opened
+[2026-05-11 21:11:11] caption picked: code=BCR id=c26a0b0f996c5d51 len=74
+[2026-05-11 21:11:15] caption filled successfully on attempt 1/4
+[2026-05-11 21:11:15] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:11:15] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:11:15.80 ====
+==== START Mon 05/11/2026 21:25:00.69 ====
+[2026-05-11 21:25:01] delay multiplier: 1.55
+[2026-05-11 21:25:01] serial: 127.0.0.1:16448
+[2026-05-11 21:25:01] flow attempt 1/4
+[2026-05-11 21:25:01] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:25:17] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:25:28] tap '+' attempt 1/4 at (270,912)
+[2026-05-11 21:25:31] create screen opened
+[2026-05-11 21:25:31] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:25:32] tap 'Video' attempt 1/5 at (274,354)
+[2026-05-11 21:25:34] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:25:34] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:25:41] video selected by selector click
+[2026-05-11 21:25:43] tap 'Next' attempt 1/5
+[2026-05-11 21:25:48] post screen opened
+[2026-05-11 21:25:49] caption picked: code=BCR id=93a6f2934a254e6e len=82
+[2026-05-11 21:25:52] caption filled successfully on attempt 1/4
+[2026-05-11 21:25:53] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:25:53] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:25:53.63 ====
+==== START Mon 05/11/2026 21:34:00.45 ====
+[2026-05-11 21:34:00] delay multiplier: 1.55
+[2026-05-11 21:34:02] serial: 127.0.0.1:16448
+[2026-05-11 21:34:02] flow attempt 1/4
+[2026-05-11 21:34:02] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:34:10] left TikTok while tapping '+', recovering in-app: pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 21:34:10] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:34:20] tap '+' attempt 2/4 at (269,915)
+[2026-05-11 21:34:23] create screen opened
+[2026-05-11 21:34:24] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:34:24] tap 'Video' attempt 1/5 at (264,349)
+[2026-05-11 21:34:27] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:34:27] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:34:34] video selected by selector click
+[2026-05-11 21:34:37] tap 'Next' attempt 1/5
+[2026-05-11 21:34:42] post screen opened
+[2026-05-11 21:34:42] caption picked: code=BCR id=1e5e81e6510f4ddd len=60
+[2026-05-11 21:34:45] caption filled successfully on attempt 1/4
+[2026-05-11 21:34:46] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:34:46] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:34:46.48 ====
+==== START Mon 05/11/2026 21:42:00.76 ====
+[2026-05-11 21:42:01] delay multiplier: 1.55
+[2026-05-11 21:42:01] serial: 127.0.0.1:16448
+[2026-05-11 21:42:01] flow attempt 1/4
+[2026-05-11 21:42:02] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:42:15] tap '+' attempt 1/4 at (270,915)
+[2026-05-11 21:42:24] create screen opened
+[2026-05-11 21:42:34] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:43:14] tap 'Video' fallback attempt 1/5 at (268,355)
+[2026-05-11 21:43:27] video-tab check attempt 2/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:43:27] tap 'Video' fallback attempt 2/5 at (267,350)
+[2026-05-11 21:43:40] video-tab check attempt 3/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:43:40] tap 'Video' fallback attempt 3/5 at (271,348)
+[2026-05-11 21:43:52] video-tab check attempt 4/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:43:52] tap 'Video' fallback attempt 4/5 at (267,355)
+[2026-05-11 21:44:05] video-tab check attempt 5/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:44:05] tap 'Video' fallback attempt 5/5 at (275,355)
+[2026-05-11 21:44:13] flow attempt 1 failed: Cannot find/tap 'Video' tab: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:44:16] flow attempt 2/4
+[2026-05-11 21:44:16] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:44:30] tap '+' attempt 1/4 at (270,915)
+[2026-05-11 21:44:33] create screen opened
+[2026-05-11 21:44:34] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:44:34] tap 'Video' attempt 1/5 at (267,352)
+[2026-05-11 21:44:37] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:44:37] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:44:43] video selected by selector click
+[2026-05-11 21:44:46] tap 'Next' attempt 1/5
+[2026-05-11 21:44:51] post screen opened
+[2026-05-11 21:44:51] caption picked: code=BCR id=35443df892f6d86c len=90
+[2026-05-11 21:44:55] caption filled successfully on attempt 1/4
+[2026-05-11 21:44:55] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:44:55] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:44:55.80 ====
+==== START Mon 05/11/2026 21:53:00.66 ====
+[2026-05-11 21:53:01] delay multiplier: 1.55
+[2026-05-11 21:53:01] serial: 127.0.0.1:16448
+[2026-05-11 21:53:01] flow attempt 1/4
+[2026-05-11 21:53:01] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:53:15] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:53:26] tap '+' attempt 1/4 at (270,915)
+[2026-05-11 21:53:30] create screen opened and interactive
+[2026-05-11 21:53:31] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:53:31] tap 'Video' attempt 1/5 at (269,354)
+[2026-05-11 21:53:33] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:53:33] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:53:41] video selected by selector click
+[2026-05-11 21:53:43] tap 'Next' attempt 1/5
+[2026-05-11 21:53:49] post screen opened
+[2026-05-11 21:53:49] caption picked: code=BCR id=35443df892f6d86c len=79
+[2026-05-11 21:53:52] caption filled successfully on attempt 1/4
+[2026-05-11 21:53:53] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:53:53] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:53:53.47 ====
+==== START Mon 05/11/2026 21:55:31.57 ====
+[2026-05-11 21:55:32] delay multiplier: 1.55
+[2026-05-11 21:55:34] serial: 127.0.0.1:16448
+[2026-05-11 21:55:34] flow attempt 1/4
+[2026-05-11 21:55:34] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:56:04] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:56:19] home recovery relaunch not ready: 1/3 pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 21:56:21] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:56:36] home recovery relaunch not ready: 2/3 pkg=app.lawnchair act=.LawnchairLauncher
+[2026-05-11 21:56:38] open app: com.zhiliaoapp.musically.go
+[2026-05-11 21:56:47] home recovery success after relaunch 3/3
+[2026-05-11 21:56:50] tap '+' attempt 1/4 at (270,915)
+[2026-05-11 21:56:54] create screen opened and interactive
+[2026-05-11 21:56:54] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 21:56:55] tap 'Video' attempt 1/5 at (274,356)
+[2026-05-11 21:56:57] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 21:56:57] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 21:57:04] video selected by selector click
+[2026-05-11 21:57:06] tap 'Next' attempt 1/5
+[2026-05-11 21:57:12] post screen opened
+[2026-05-11 21:57:12] caption picked: code=BCR id=2c65b6cf39211254 len=84
+[2026-05-11 21:57:16] caption filled successfully on attempt 1/4
+[2026-05-11 21:57:16] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 21:57:16] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 21:57:16.81 ====
+==== START Mon 05/11/2026 22:01:16.31 ====
+[2026-05-11 22:01:17] delay multiplier: 1.55
+[2026-05-11 22:01:19] serial: 127.0.0.1:16448
+[2026-05-11 22:01:19] flow attempt 1/4
+[2026-05-11 22:01:19] open app: com.zhiliaoapp.musically.go (1/3)
+[2026-05-11 22:01:31] tap '+' attempt 1/4 at (270,915)
+[2026-05-11 22:01:35] create screen opened and interactive
+[2026-05-11 22:01:35] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 22:01:36] tap 'Video' attempt 1/5 at (274,356)
+[2026-05-11 22:01:38] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 22:01:39] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 22:01:46] video selected by selector click
+[2026-05-11 22:01:48] tap 'Next' attempt 1/5
+[2026-05-11 22:01:53] post screen opened
+[2026-05-11 22:01:53] caption picked: code=BCR id=c26a0b0f996c5d51 len=77
+[2026-05-11 22:01:56] caption filled successfully on attempt 1/4
+[2026-05-11 22:01:57] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 22:01:57] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 22:01:57.56 ====
+==== START Mon 05/11/2026 22:06:00.84 ====
+[2026-05-11 22:06:01] delay multiplier: 1.55
+[2026-05-11 22:06:02] serial: 127.0.0.1:16448
+[2026-05-11 22:06:02] flow attempt 1/4
+[2026-05-11 22:06:02] open app: com.zhiliaoapp.musically.go (1/3)
+[2026-05-11 22:06:16] open app: com.zhiliaoapp.musically.go (1/3)
+[2026-05-11 22:06:29] tap '+' attempt 1/4 at (270,915)
+[2026-05-11 22:06:33] create screen opened and interactive
+[2026-05-11 22:06:33] video-tab check attempt 1/5: pkg=com.zhiliaoapp.musically.go act=com.ss.android.ugc.aweme.creativetool.CreationActivity
+[2026-05-11 22:06:33] tap 'Video' attempt 1/5 at (268,351)
+[2026-05-11 22:06:36] video tab tapped successfully; 'Video' picker ready
+[2026-05-11 22:06:36] fallback latest-device video hint: 250807-BCR_h264.mp4
+[2026-05-11 22:06:43] video selected by selector click
+[2026-05-11 22:06:46] tap 'Next' attempt 1/5
+[2026-05-11 22:06:52] post screen opened
+[2026-05-11 22:06:52] caption picked: code=BCR id=93a6f2934a254e6e len=82
+[2026-05-11 22:06:55] caption filled successfully on attempt 1/4
+[2026-05-11 22:06:55] final state confirmed at post screen (ready to tap 'Dang')
+[2026-05-11 22:06:55] TT-G2.1 completed
+EXIT_CODE=0
+==== END Mon 05/11/2026 22:06:56.09 ====
+==== START Wed 05/13/2026 20:43:51.62 ====
+[2026-05-13 20:43:51] delay multiplier: 1.55
+[2026-05-13 20:43:52] serial: 127.0.0.1:16448
+[2026-05-13 20:43:52] flow attempt 1/4
+[2026-05-13 20:43:52] open app: com.zhiliaoapp.musically.go (1/3)

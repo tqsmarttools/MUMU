@@ -1,0 +1,12 @@
+﻿product_code,product_name,caption,hashtags,weight,active
+BCR,Bay cắt ron,"Bay cắt ron bền đẹp, thi công nhanh gọn.",#baycatron|#dungcuxaydung|#xaydung,3,1
+MKRC,Máng keo răng cưa,"Máng keo răng cưa giúp dàn keo đều, tiết kiệm vật tư.",#mangkeorangcua|#oplat|#thicong,3,1
+DEFAULT,Chung,Dụng cụ chất lượng cho công trình bền đẹp.,#dungcuxaydung|#thicong|#xaydung,1,1
+BCR,Bay cắt ron,"Cắt ron gọn đẹp, dễ thao tác cho công trình dán ốp lát.",#baycatron|#oplat|#xaydung,3,1
+BCR,Bay cắt ron,"Lưỡi thép chắc tay, cắt ron đều và hạn chế mẻ vỡ.",#baycatron|#dungcuxaydung|#thicong,2,1
+BCR,Bay cắt ron,Mẹo thi công nhanh: cạnh bay mỏng giúp vào ron dễ hơn.,#meoxaydung|#baycatron|#thicong,2,1
+BCR,Bay cắt ron,"Bay cắt ron cho đường cắt sạch, hoàn thiện bề mặt gọn gàng.",#baycatron|#hoanthien|#xaydung,3,1
+MKRC,Máng keo răng cưa,"Máng keo răng cưa giúp trải keo đều, bám gạch chắc hơn.",#mangkeorangcua|#oplat|#thicong,3,1
+MKRC,Máng keo răng cưa,Răng cưa chuẩn giúp tiết kiệm keo và giảm hao hụt vật tư.,#mangkeorangcua|#dungcuxaydung|#xaydung,2,1
+MKRC,Máng keo răng cưa,Thi công ốp lát nhanh hơn với máng keo răng cưa đúng size.,#oplat|#mangkeorangcua|#meoxaydung,2,1
+MKRC,Máng keo răng cưa,"Máng keo chắc tay, tạo lớp keo đều cho bề mặt đẹp bền.",#mangkeorangcua|#hoanthien|#thicong,3,1
