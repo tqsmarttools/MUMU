@@ -1,38 +1,38 @@
 # SOP - MuMuPlayer TikTok Lite (1 Instance)
 
-## 1) Muc tieu
-- Dung cho TikTok va app nhe.
-- Khong game, khong can GPS gia lap.
-- Uu tien tiet kiem tai nguyen, van thao tac muot.
+## 1) Mục tiêu
+- Dùng cho TikTok và các ứng dụng nhẹ.
+- Không chơi game, không cần giả lập GPS.
+- Ưu tiên tiết kiệm tài nguyên nhưng vẫn thao tác mượt.
 
-## 2) Cau hinh chuan da chot
-- Instance name: `TT-Lite-01`
+## 2) Cấu hình chuẩn đã chốt
+- Tên máy ảo: `TT-Lite-01`
 - CPU: `2`
 - RAM: `3072 MB` (`3.000000`)
 - FPS: `20`
-- Resolution: `720 x 1280` (doc)
+- Độ phân giải: `720 x 1280` (màn hình dọc)
 - DPI: `320`
-- Brand/Model: `Samsung Galaxy A34` (`SM-A346E`)
+- Thương hiệu/mẫu máy: `Samsung Galaxy A34` (`SM-A346E`)
 - Root: `false`
-- Locale: `en-US`
-- ADB: su dung qua `mumu-cli adb`
+- Ngôn ngữ: `en-US`
+- ADB: sử dụng qua `mumu-cli adb`
 
-## 3) Duong dan cong cu
+## 3) Đường dẫn công cụ
 - `C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe`
 
-## 4) Tao instance moi
+## 4) Tạo instance mới
 ```powershell
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" create --number 1
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" info --vmindex all
 ```
 
-Ghi nhan `vmindex` moi (vi du: `1`), roi dat ten:
+Ghi nhận `vmindex` mới (ví dụ: `1`), rồi đặt tên:
 
 ```powershell
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" rename --vmindex 1 --name "TT-Lite-01"
 ```
 
-## 5) Ap cau hinh
+## 5) Áp cấu hình
 ```powershell
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" setting --vmindex 1 `
   --key performance_mode --value custom `
@@ -49,7 +49,7 @@ Ghi nhan `vmindex` moi (vi du: `1`), roi dat ten:
   --key root_permission --value false
 ```
 
-## 6) Khoi dong va set English
+## 6) Khởi động và đặt ngôn ngữ English
 ```powershell
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 launch
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" adb --vmindex 1 --cmd "shell setprop persist.sys.locale en-US"
@@ -57,7 +57,7 @@ Ghi nhan `vmindex` moi (vi du: `1`), roi dat ten:
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" adb --vmindex 1 --cmd "shell setprop persist.sys.country US"
 ```
 
-## 7) Xac nhan sau cai dat
+## 7) Xác nhận sau cài đặt
 ```powershell
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" info --vmindex 1
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" setting --vmindex 1 --key max_frame_rate
@@ -66,55 +66,55 @@ Ghi nhan `vmindex` moi (vi du: `1`), roi dat ten:
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" adb --vmindex 1 --cmd "shell getprop persist.sys.locale"
 ```
 
-## 8) Rule xu ly lag
-1. Tang RAM len `4.000000` truoc, giu CPU `2`.
-2. Neu van lag, tang CPU len `4`.
-3. Chi tang FPS khi can muot hon (`20 -> 30`).
+## 8) Quy tắc xử lý lag
+1. Tăng RAM lên `4.000000` trước, giữ CPU `2`.
+2. Nếu vẫn lag, tăng CPU lên `4`.
+3. Chỉ tăng FPS khi cần mượt hơn (`20 -> 30`).
 
-## 9) Mau lenh scale nhieu instance sau nay
+## 9) Mẫu lệnh scale nhiều instance sau này
 ```powershell
-# Tao them 3 may moi
+# Tạo thêm 3 máy mới
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" create --number 3
 
-# Ap cau hinh hang loat cho vmindex 2,3,4 (vi du)
+# Áp cấu hình hàng loạt cho vmindex 2,3,4 (ví dụ)
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" setting --vmindex 2,3,4 --key performance_mode --value custom --key performance_cpu.custom --value 2 --key performance_mem.custom --value 3.000000 --key max_frame_rate --value 20
 ```
 
-## 10) Cai SockDroid (APK chinh thuc)
-- Nguon release chinh thuc: `https://github.com/bndeff/socksdroid/releases/latest`
-- APK da dung trong setup nay: `socksdroid-1.0.4.apk`
+## 10) Cài SockDroid (APK chính thức)
+- Nguồn release chính thức: `https://github.com/bndeff/socksdroid/releases/latest`
+- APK đã dùng trong setup này: `socksdroid-1.0.4.apk`
 - Package name: `net.typeblog.socks`
 
-### 10.1) Tai APK
+### 10.1) Tải APK
 ```powershell
 $url = "https://github.com/bndeff/socksdroid/releases/download/1.0.4/socksdroid-1.0.4.apk"
 $apk = "C:\Users\1\Documents\Codex\2026-05-20\m-y-c-i-mumuplayer-ch\socksdroid-1.0.4.apk"
 curl.exe -L "$url" -o "$apk"
 ```
 
-### 10.2) Xac thuc file truoc khi cai
+### 10.2) Xác thực file trước khi cài
 ```powershell
-# Kiem tra metadata tu URL
+# Kiểm tra metadata từ URL
 Invoke-WebRequest -Uri "https://github.com/bndeff/socksdroid/releases/download/1.0.4/socksdroid-1.0.4.apk" -Method Head -MaximumRedirection 10
 
-# Kiem tra file local
+# Kiểm tra file local
 Get-Item "$apk" | Select-Object Name,Length,LastWriteTime
 Get-FileHash "$apk" -Algorithm SHA256
 ```
 
-Gia tri tham chieu da verify:
+Giá trị tham chiếu đã verify:
 - `Content-Type`: `application/vnd.android.package-archive`
 - `Content-Length`: `790099`
 - `SHA256`: `4A92F430648FC4F6EA22ABD0E5F9C0DBFF2E3DAF2220DD51616B3E7C341E2136`
 
-### 10.3) Cai vao MuMu va mo app
+### 10.3) Cài vào MuMu và mở app
 ```powershell
-# Cai app
+# Cài app
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 app install --apk "$apk"
 
-# Verify app da cai
+# Verify app đã cài
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 app info --package net.typeblog.socks
 
-# Mo app
+# Mở app
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 app launch --package net.typeblog.socks
 ```
