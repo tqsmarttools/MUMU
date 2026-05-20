@@ -20,6 +20,21 @@
 ## 3) Đường dẫn công cụ
 - `C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe`
 
+## 3.1) Phân biệt nhanh `mumu-cli` và `adb`
+- `mumu-cli`: quản lý máy ảo MuMu từ bên ngoài.
+  Dùng khi cần tạo/xóa máy, bật/tắt máy, đổi CPU/RAM/FPS/độ phân giải, cài APK nhanh.
+- `adb`: thao tác bên trong hệ điều hành Android.
+  Dùng khi cần mở link Play Store, bấm/tap, nhập text, kiểm tra package đã cài.
+
+Ví dụ ngắn:
+```powershell
+# mumu-cli: bật máy ảo #1
+& "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 launch
+
+# adb: mở trang TikTok trên Google Play trong máy ảo
+& "C:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe" -s 127.0.0.1:16416 shell am start -a android.intent.action.VIEW -d "market://details?id=com.zhiliaoapp.musically"
+```
+
 ## 4) Tạo instance mới
 ```powershell
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" create --number 1
