@@ -5,6 +5,19 @@
 - Không chơi game, không cần giả lập GPS.
 - Ưu tiên tiết kiệm tài nguyên nhưng vẫn thao tác mượt.
 
+## 1.1) Quy trình chuẩn bắt buộc
+Thứ tự setup phải giữ đúng như sau:
+
+1. Tạo instance MuMu mới.
+2. Áp cấu hình thiết bị: CPU, RAM, FPS, độ phân giải, DPI, brand/model, phone number nếu có.
+3. Cài SockDroid hoặc công cụ proxy/VPN tương đương.
+4. Nhập proxy, bật công tắc VPN/proxy và kiểm tra IP public ngay trong Android.
+5. Chỉ sau khi IP đã đúng mới đăng nhập Google Play/Gmail.
+6. Cài TikTok, Facebook và các app khác.
+7. Mở từng app để kiểm tra trạng thái đăng nhập/kết nối.
+
+Không đăng nhập Google hoặc app trước khi chốt IP/proxy. Đăng nhập trước rồi đổi IP sau dễ làm Google/TikTok thấy môi trường thay đổi, có thể yêu cầu xác minh lại hoặc tăng rủi ro khóa/checkpoint.
+
 ## 2) Cấu hình chuẩn đã chốt
 - Tên máy ảo: `TT-Lite-01`
 - CPU: `2`
@@ -134,8 +147,53 @@ Giá trị tham chiếu đã verify:
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 app launch --package net.typeblog.socks
 ```
 
+### 10.4) Cấu hình SOCKS5 và kiểm tra IP trước khi đăng nhập
+Proxy format khách cung cấp thường là:
+```text
+SOCKS5 IP:PORT:USERNAME:PASSWORD
+```
+
+Trong SockDroid:
+1. `Server IP`: nhập IP proxy.
+2. `Server Port`: nhập port proxy.
+3. Bật `Username & Password Authentication`.
+4. Nhập `Username` và `Password`.
+5. Giữ `Route` là `All (Default)` để toàn bộ traffic Android đi qua proxy.
+6. Bật công tắc trên thanh tiêu đề.
+7. Nếu Android hỏi `Connection request`, bấm `OK`.
+
+Kiểm tra VPN/proxy đã bật:
+```powershell
+$adb = "C:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe"
+$dev = "127.0.0.1:16416"
+
+& $adb -s $dev shell dumpsys connectivity | Select-String -Pattern "VPN CONNECTED|WIFI\|VPN|tun0"
+```
+
+Kết quả đúng phải có `VPN CONNECTED`, `WIFI|VPN` hoặc interface `tun0`.
+
+Kiểm tra IP public đúng cách:
+```powershell
+& $adb -s $dev shell am start -a android.intent.action.VIEW -d "https://api.ipify.org"
+```
+
+Xem kết quả trực tiếp trên browser trong Android. Không chỉ dùng `adb shell curl` để kết luận, vì một số UID hoặc tiến trình shell có thể không đi qua VPN.
+
+Có thể đối chiếu bằng PC:
+```powershell
+# IP thật của PC
+curl.exe https://api.ipify.org
+
+# IP exit của proxy
+curl.exe --proxy "socks5h://USERNAME:PASSWORD@IP:PORT" https://api.ipify.org
+```
+
+IP trên browser Android phải trùng với IP exit của proxy, và khác IP thật của PC nếu proxy đang hoạt động đúng.
+
 ## 11) Cài TikTok chính thức
 Ưu tiên cài bằng Google Play vì đây là kênh chính thức, tự cập nhật tốt và ít rủi ro hơn APK ngoài.
+
+Chỉ thực hiện bước này sau khi SockDroid/proxy đã bật và IP public trong Android đã đúng.
 
 Với máy này, package cài được qua Play Store là:
 - App: `TikTok`
