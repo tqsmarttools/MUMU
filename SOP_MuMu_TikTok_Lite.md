@@ -32,7 +32,7 @@ Ví dụ ngắn:
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 launch
 
 # adb: mở trang TikTok trên Google Play trong máy ảo
-& "C:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe" -s 127.0.0.1:16416 shell am start -a android.intent.action.VIEW -d "market://details?id=com.zhiliaoapp.musically"
+& "C:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe" -s 127.0.0.1:16416 shell am start -a android.intent.action.VIEW -d "market://details?id=com.ss.android.ugc.trill"
 ```
 
 ## 4) Tạo instance mới
@@ -133,3 +133,48 @@ Giá trị tham chiếu đã verify:
 # Mở app
 & "C:\Program Files\Netease\MuMuPlayer\nx_main\mumu-cli.exe" control --vmindex 1 app launch --package net.typeblog.socks
 ```
+
+## 11) Cài TikTok chính thức
+Ưu tiên cài bằng Google Play vì đây là kênh chính thức, tự cập nhật tốt và ít rủi ro hơn APK ngoài.
+
+Với máy này, package cài được qua Play Store là:
+- App: `TikTok`
+- Publisher: `TikTok Pte. Ltd.`
+- Package: `com.ss.android.ugc.trill`
+
+Ghi chú:
+- `com.zhiliaoapp.musically` là package TikTok global phổ biến, nhưng trên máy này Play Store báo không khả dụng theo quốc gia.
+- Official TikTok web trên Android redirect sang package khu vực `com.ss.android.ugc.trill`.
+- Không cài TikTok Lite nếu khách yêu cầu bản TikTok chính thức.
+
+### 11.1) Mở trang TikTok trên Play Store bằng ADB
+```powershell
+$adb = "C:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe"
+$dev = "127.0.0.1:16416"
+
+& $adb -s $dev shell am start -a android.intent.action.VIEW -d "market://details?id=com.ss.android.ugc.trill"
+```
+
+Sau khi Play Store mở đúng trang `TikTok` của `TikTok Pte. Ltd.`, bấm `Install`.
+
+### 11.2) Kiểm tra sau khi cài
+```powershell
+& $adb -s $dev shell pm list packages | Select-String -Pattern "com.ss.android.ugc.trill|com.zhiliaoapp.musically"
+```
+
+Kết quả đúng:
+```text
+package:com.ss.android.ugc.trill
+```
+
+### 11.3) Mở TikTok
+```powershell
+& $adb -s $dev shell am start -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -n "com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity"
+```
+
+Nếu activity launcher thay đổi theo version, mở bằng nút `Open` trong Play Store là cách chắc chắn nhất.
+
+### 11.4) Thứ tự xử lý nếu cài TikTok lỗi
+1. Thử Google Play package `com.ss.android.ugc.trill`.
+2. Nếu bị chặn, thử Google Play package `com.zhiliaoapp.musically`.
+3. Nếu cả hai bị chặn, mới cân nhắc APK ngoài. Trước khi cài APK ngoài phải kiểm tra nguồn, dung lượng file, package name và chữ ký APK; không dùng file không rõ nguồn.
